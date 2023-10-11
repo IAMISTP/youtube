@@ -34,11 +34,9 @@ const ListVideos = ({ video }: PropsType) => {
 
 export default ListVideos;
 
-const Item = styled.div`
-  width: 100%;
-`;
+const Item = styled.div``;
 
 const Img = styled.img`
-  width: 100%;
+  width: 320px;
   height: 180px;
 `;
