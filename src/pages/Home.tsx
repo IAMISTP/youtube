@@ -3,6 +3,8 @@ import { Videos } from "../apis/data";
 import { styled } from "styled-components";
 import { useNavigate } from "react-router-dom";
 import ListVideos from "../components/ ListVideos";
+import { useRecoilValue } from "recoil";
+import { darkModeState } from "../App";
 
 export type ThumbnailsType = {
   default: {
@@ -37,7 +39,12 @@ export type YoutubeResultType = {
   };
 };
 
+type ModeType = {
+  mode: boolean;
+};
+
 const Home = () => {
+  const darkMode = useRecoilValue(darkModeState);
   const { isLoading, isError, data } = useQuery<YoutubeResultType[], Error>({
     queryKey: ["videos"],
     queryFn: Videos,
@@ -54,18 +61,23 @@ const Home = () => {
   }
 
   return (
-    <Container>
-      <ItemList>
-        {data?.map((video: YoutubeResultType) => {
-          return <ListVideos key={video.etag} video={video} />;
-        })}
-      </ItemList>
+    <Container mode={darkMode}>
+      <ItemContainer>
+        <ItemList>
+          {data?.map((video: YoutubeResultType) => {
+            return <ListVideos key={video.etag} video={video} />;
+          })}
+        </ItemList>
+      </ItemContainer>
     </Container>
   );
 };
 
 export default Home;
-const Container = styled.div`
+const Container = styled.div<ModeType>`
+  background-color: ${(props) => (props.mode ? "white" : "black")};
+`;
+const ItemContainer = styled.div`
   width: 90%;
   margin: 0 auto;
 `;

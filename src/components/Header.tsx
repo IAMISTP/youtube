@@ -1,5 +1,5 @@
 import { useMutation, useQuery } from "@tanstack/react-query";
-import React, { useState } from "react";
+import React, { ChangeEvent, useState } from "react";
 import {
   AiOutlineMenu,
   AiFillYoutube,
@@ -8,10 +8,14 @@ import {
   AiOutlineUser,
   AiOutlineSearch,
 } from "react-icons/ai";
+import { BsSun } from "react-icons/bs";
 import { styled } from "styled-components";
 import { searchVideos } from "../apis/data";
 import { useNavigate } from "react-router-dom";
+import { useSetRecoilState } from "recoil";
+import { darkModeState } from "../App";
 const Header = (): JSX.Element => {
+  const setDarkMode = useSetRecoilState(darkModeState);
   const [inputValue, setInputValue] = useState("");
   const navigation = useNavigate();
 
@@ -24,6 +28,9 @@ const Header = (): JSX.Element => {
     navigation(`/video/${inputValue}`);
   };
 
+  const changeMode = () => {
+    setDarkMode((prev) => !prev);
+  };
   return (
     <Container>
       <LeftBox>
@@ -42,6 +49,9 @@ const Header = (): JSX.Element => {
         </button>
       </SearchBox>
       <RightBox>
+        <div onClickCapture={changeMode}>
+          <BsSun />
+        </div>
         <AiOutlineVideoCameraAdd />
         <AiOutlineBell />
         <AiOutlineUser />
