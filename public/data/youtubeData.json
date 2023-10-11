@@ -1,0 +1,814 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Tzl8nDJLx79KMO_wyfi-5kIcF_8",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S3mHJelAESxhCSHdpmxPdv3Op0w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qeGTXIFn3gQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-10T19:29:23Z",
+        "channelId": "UCnq1w-56tAvMdDup-CL6Vtg",
+        "title": "Rose Makes Brownies #shorts",
+        "description": "RECIPE: https://www.flavcity.com/gluten-free-dairy-free-brownies Rose made chocolate brownies...and she made a mess!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qeGTXIFn3gQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qeGTXIFn3gQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qeGTXIFn3gQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FlavCity with Bobby Parrish",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-10T19:29:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2ijbppSR6TvIkrlTdxY26iydhow",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GfHNkWRH_fg"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-18T03:00:11Z",
+        "channelId": "UC6gvQ0KCwasSydvmE5hhbWg",
+        "title": "#engineeringgadgets #tech #mechanicalengineers #mechanicalengineering #machining #mechanic #short",
+        "description": "Planet Innovation Channel This channel focuses on new technology and invention brings to audiences the interest and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GfHNkWRH_fg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GfHNkWRH_fg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GfHNkWRH_fg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Suhag94",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-18T03:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gDwTuR-eJJgeSsD_znUR1ROTMZc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7wUEU05dbrU"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-10T09:00:00Z",
+        "channelId": "UC1W2V0ZajNdwLqvO1VynQVQ",
+        "title": "Blocks vs Bricks | BeanoToons",
+        "description": "The ultimate rap battle between Minecraft and Lego! Subscribe for new BeanoToons EVERY SINGLE SATURDAY!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7wUEU05dbrU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7wUEU05dbrU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7wUEU05dbrU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Beano",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-10T09:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j8TMZbm_CimPCC1pLPQKbnmB-LA",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCaXYQkz86bHkTUE3bTWCqRQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-08T01:07:30Z",
+        "channelId": "UCaXYQkz86bHkTUE3bTWCqRQ",
+        "title": "KBS America Sports",
+        "description": "KBS America Sports 채널 항저우 2022 아시안 게임을 생중계합니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/rcG0Wb9Zkq49AURWF4RKNpSEqKED3XflJFX4ZF2z2SKcvTx6rAml-RlacrBiUzk3zGIFuttmIcA=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/rcG0Wb9Zkq49AURWF4RKNpSEqKED3XflJFX4ZF2z2SKcvTx6rAml-RlacrBiUzk3zGIFuttmIcA=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/rcG0Wb9Zkq49AURWF4RKNpSEqKED3XflJFX4ZF2z2SKcvTx6rAml-RlacrBiUzk3zGIFuttmIcA=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "KBS America Sports",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-09-08T01:07:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mjk2QMT5hPPRSnSM0qPGvQejZs0",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCiEdUSA4iV73p3QvMfwDvgQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-11T10:08:33Z",
+        "channelId": "UCiEdUSA4iV73p3QvMfwDvgQ",
+        "title": "UP Utkarsh ",
+        "description": "उत्कर्ष का 'UP Utkarsh' आधिकारिक चैनल यह चैनल उत्तर प्रदेश की सभी भर्ती ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/QuEco_YJ3KaTNXGHAEhVdTOG1szvu_kDAdItkXSGzwa0Joz3nrYb4DIblIYsxNZ9_mpiTICfpA=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/QuEco_YJ3KaTNXGHAEhVdTOG1szvu_kDAdItkXSGzwa0Joz3nrYb4DIblIYsxNZ9_mpiTICfpA=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/QuEco_YJ3KaTNXGHAEhVdTOG1szvu_kDAdItkXSGzwa0Joz3nrYb4DIblIYsxNZ9_mpiTICfpA=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "UP Utkarsh ",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2020-01-11T10:08:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L8406a7rRYtYHFExeIf2EtYcXeQ",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCqlcSsDNMYxEsem7bWY-66Q"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-17T23:04:34Z",
+        "channelId": "UCqlcSsDNMYxEsem7bWY-66Q",
+        "title": "브레인신",
+        "description": "스타크래프트 빨무 브레인신 입니다. 좋은 영상으로 찾아 뵙겠습니다 Email : youngskh1@naver.com.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/8oV2hkykyxuhZqhpSOLxrGirdQFCgsMwhpBD7Y6uSxQppS0r_OAyd4aEL5wVf7p2e7jGqNgi-w=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/8oV2hkykyxuhZqhpSOLxrGirdQFCgsMwhpBD7Y6uSxQppS0r_OAyd4aEL5wVf7p2e7jGqNgi-w=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/8oV2hkykyxuhZqhpSOLxrGirdQFCgsMwhpBD7Y6uSxQppS0r_OAyd4aEL5wVf7p2e7jGqNgi-w=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "브레인신",
+        "liveBroadcastContent": "live",
+        "publishTime": "2016-12-17T23:04:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7L9bsX7tDjAqkKGKRrbU0akt4N4",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCPZIPuQPrfrUG9Xe_okEmQA"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-16T05:44:54Z",
+        "channelId": "UCPZIPuQPrfrUG9Xe_okEmQA",
+        "title": "PLAVE 플레이브",
+        "description": "PLAVE Official YouTube 플레이브 공식 유튜브 ⠀ #PLAVE #플레이브 #プレイブ #Virtual #버추얼 #Kpop #Idol #케이팝 #아이돌.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/rauAHRPwCBGKmTBvZsAOOsZ-fS18yoX-Dio9uhz8LuHZ-BSXmz56ky0idPzCXDdEdA66-EiieJU=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/rauAHRPwCBGKmTBvZsAOOsZ-fS18yoX-Dio9uhz8LuHZ-BSXmz56ky0idPzCXDdEdA66-EiieJU=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/rauAHRPwCBGKmTBvZsAOOsZ-fS18yoX-Dio9uhz8LuHZ-BSXmz56ky0idPzCXDdEdA66-EiieJU=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "PLAVE 플레이브",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-06-16T05:44:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z9cNtt4lRW3RzvWDYNZwY-d8oho",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UC6E64qGfyUessnJ9aYHqqmA"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-22T02:36:22Z",
+        "channelId": "UC6E64qGfyUessnJ9aYHqqmA",
+        "title": "Dr. K. R. Mahiya",
+        "description": "आत्मीयजन ! हार्दिक स्वागत-अभिनंदन!!! राजकीय कन्या महाविद्यालय, अजमेर ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/APkrFKZZ6caF_kZ3fsNod5aap5lcgiERN16kk3N4LTCsvQ=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/APkrFKZZ6caF_kZ3fsNod5aap5lcgiERN16kk3N4LTCsvQ=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/APkrFKZZ6caF_kZ3fsNod5aap5lcgiERN16kk3N4LTCsvQ=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Dr. K. R. Mahiya",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2020-04-22T02:36:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vs7r3hGzYNaw2unkRaZUQoeoyY0",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCAg7hn6JVjO7MqpGpMg35qA"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-19T02:46:50Z",
+        "channelId": "UCAg7hn6JVjO7MqpGpMg35qA",
+        "title": "Pit & Penny Learn and Grow!",
+        "description": "Welcome to Pit & Penny Learn and Grow! channel! Let your kids learn and develop quickly Bright educational videos your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Xk_jQeQ2d9n5jSK2bOuSGYipulQbB0V9S608cTOsjodtv-TOewLm_HBFjZfSAI7F5V-pItkt6w=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Xk_jQeQ2d9n5jSK2bOuSGYipulQbB0V9S608cTOsjodtv-TOewLm_HBFjZfSAI7F5V-pItkt6w=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Xk_jQeQ2d9n5jSK2bOuSGYipulQbB0V9S608cTOsjodtv-TOewLm_HBFjZfSAI7F5V-pItkt6w=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Pit & Penny Learn and Grow!",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-08-19T02:46:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u8i7N3eub7RCCZY4K8itqEShT-k",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCRmShE13u8THvf_ptRVktRg"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-09T05:57:43Z",
+        "channelId": "UCRmShE13u8THvf_ptRVktRg",
+        "title": "10CM_Official",
+        "description": "10CM Official Channel.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Mu33xSUQ83chrund6s1bsVR987hq2mVBLf6fGMXyRTz65qHPPpVSjFXVRlCOXd8JgdYb-TPetA=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Mu33xSUQ83chrund6s1bsVR987hq2mVBLf6fGMXyRTz65qHPPpVSjFXVRlCOXd8JgdYb-TPetA=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Mu33xSUQ83chrund6s1bsVR987hq2mVBLf6fGMXyRTz65qHPPpVSjFXVRlCOXd8JgdYb-TPetA=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "10CM_Official",
+        "liveBroadcastContent": "live",
+        "publishTime": "2015-03-09T05:57:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "via5Hu-qLKXKVuM0twg6jonI_pM",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCeY0bbntWzzVIaj2z3QigXg"
+      },
+      "snippet": {
+        "publishedAt": "2006-07-19T20:46:03Z",
+        "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+        "title": "NBC News",
+        "description": "NBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/APkrFKaY-uFR1B45sUcdhSFFA1hGiWrX1fMx5lHZ-NmrzV4=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/APkrFKaY-uFR1B45sUcdhSFFA1hGiWrX1fMx5lHZ-NmrzV4=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/APkrFKaY-uFR1B45sUcdhSFFA1hGiWrX1fMx5lHZ-NmrzV4=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "NBC News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2006-07-19T20:46:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "urp_v7x40xPGK1UPHUwvw4IzTmQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "adMBDxnhJMw"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-25T15:00:00Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "Ep6 Moonchild | BTS: Burn the Stage",
+        "description": "A surprise appear while in Southeast Asia: BTS are nominated for a Billboard Music Award! Will success on the global stage ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/adMBDxnhJMw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/adMBDxnhJMw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/adMBDxnhJMw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-25T15:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FGCdict7aoja099G6nBWxQtKDV0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aDgA2jwSvlI"
+      },
+      "snippet": {
+        "publishedAt": "2013-01-22T22:15:30Z",
+        "channelId": "UC2369dqfC9nTlqB1h0OpwGA",
+        "title": "제임스와 거대한 복숭아",
+        "description": "위험에 빠진 거미를 구해준 수, 어린 제임스는 마법의 약을 얻게 된다. 제임스가 실수로 정원에 그 약을 쏟게되고, 거대한 복숭아가 탄생 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aDgA2jwSvlI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aDgA2jwSvlI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aDgA2jwSvlI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-01-22T22:15:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-U8u1CJ1lsZ7Yy1uIPwCi0dz1Oo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qMxtP25RSpY"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-06T16:00:30Z",
+        "channelId": "UC4rlAVgAK0SGk-yTfe48Qpw",
+        "title": "25 Riddles That Will Keep You on Edge of Your Seat",
+        "description": "Hey BrightSiders! You're riddle-lovers, aren't you? Here's a cool portion of fresh tricky riddles that'll boost your brain activity.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qMxtP25RSpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qMxtP25RSpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qMxtP25RSpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BRIGHT SIDE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-06T16:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bk3ZUBzOKzKd7F0COB7c-da3wCY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x-rhzdPNgj8"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-19T17:38:40Z",
+        "channelId": "UCWljxewHlJE3M7U_6_zFNyA",
+        "title": "Ep 4 &quot;The Golden Trio (Plus One)&quot; - Overthinking with Kat &amp; June",
+        "description": "June uses Kat's foolproof methods of seduction on their double date with two hot/depressed brothers. Available with YouTube ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x-rhzdPNgj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x-rhzdPNgj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x-rhzdPNgj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Awesomeness",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-19T17:38:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "79Rzf8vgNGlzLWpfDh3UrawzfJ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ik2XaTmKukw"
+      },
+      "snippet": {
+        "publishedAt": "2013-06-19T01:39:10Z",
+        "channelId": "UCwTkXpRaXzPzKmsgUdXkb2A",
+        "title": "오페라의 유령 25주년 기념 라이브 공연",
+        "description": "860년 파리 오페라 하우스. 새로운 극단주 앙드레와 피르맹, 그리고 후원자인 라울 백작은 '한니발' 리허설을 감상하는 가운데 갑자기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ik2XaTmKukw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ik2XaTmKukw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ik2XaTmKukw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-06-19T01:39:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CiLvKAh4QJOsjnJSzsiA7vyZnRU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AI7sdD8maXQ"
+      },
+      "snippet": {
+        "publishedAt": "2014-03-01T16:55:29Z",
+        "channelId": "UCeHS0MAbTSs9c6G7Iknc3aw",
+        "title": "딜리버리 맨",
+        "description": "항상 부진한 삶을 살아온 데이비드(빈스 본 분)는 재미없는 중년의 삶을 살고 있다. 그런데 20년전 아르바이트로 기증했던 그의 정자가 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AI7sdD8maXQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AI7sdD8maXQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AI7sdD8maXQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-03-01T16:55:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cue1joKNSx0UulYSH7SAc36tydA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RmYqPTjzqi0"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-30T06:58:18Z",
+        "channelId": "UCEgtFHO_5ZXhzu0eYjowHHQ",
+        "title": "코코 (자막판)",
+        "description": "음악을 싫어하는 가족들의 반대에도 불구하고 뮤지션을 꿈꾸는 소년 미구엘은 전설적인 가수 에르네스토 델라크루즈의 기타에 손을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RmYqPTjzqi0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RmYqPTjzqi0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RmYqPTjzqi0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-30T06:58:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I6PElhAKky-jSaofuUImTviJcSw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fLfPgF92c-g"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-08T04:01:04Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "JENNIE - ‘You &amp; Me’ [BORN PINK] WORLD TOUR STAGE MIX VIDEO HIGHLIGHT CLIP",
+        "description": "JENNIE #제니 #BLACKPINK #블랙핑크 #SpecialSingle #YouandMe #BORNPINK #WORLDTOUR #STAGE_MIX_VIDEO ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fLfPgF92c-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fLfPgF92c-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fLfPgF92c-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-08T04:01:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E7VRSnKhNAUW6kaCA6ogMyVNI4Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7c-mFvW8OTA"
+      },
+      "snippet": {
+        "publishedAt": "2015-02-12T00:57:36Z",
+        "channelId": "UC0M9C922WttvOyJhlrM1P8g",
+        "title": "퓨리",
+        "description": "2차 세계대전, 전차부대를 이끄는 대장 '워대디'에게 적으로 둘러싸인 최전선에서의 마지막 전투 명령이 떨어진다. 하지만 수 차례의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7c-mFvW8OTA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7c-mFvW8OTA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7c-mFvW8OTA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-02-12T00:57:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LQAEOlx1V_L3bH-LzU2gioFYfv0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JTegtx6YbKc"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-09T12:01:32Z",
+        "channelId": "UCk2E0dbAyEJWnrN2bbQOcbg",
+        "title": "Look at Ooooh 〰️ 🍒🍑🐶 #NCT127 #FactCheck #Checkthefacts",
+        "description": "YUTA #JAEHYUN #JUNGWOO #NCT127 #FactCheck #不可思議 #NCT127_FactCheck #NCT127_FactCheck_불가사의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JTegtx6YbKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JTegtx6YbKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JTegtx6YbKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NCT 127",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-09T12:01:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eeCY5euEj_z73V-vHF3zLKyGFZM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_Pzs6o3wXAU"
+      },
+      "snippet": {
+        "publishedAt": "2013-08-17T08:37:31Z",
+        "channelId": "UCk_Xo9rypmx2JkoFlFnD6PQ",
+        "title": "나의 특별한 사랑이야기",
+        "description": "윌(라이언 레이놀즈)이 자신의 딸(아비게일 브레스린)에게 그녀의 엄마를 어떻게 만나게 됐는지 얘기하면서 과거를 돌아보던 그는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Pzs6o3wXAU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Pzs6o3wXAU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Pzs6o3wXAU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-08-17T08:37:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dGhAjsySw5PS0AF1eqykeudqX0Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jCSADOjvgz8"
+      },
+      "snippet": {
+        "publishedAt": "2014-07-19T08:01:26Z",
+        "channelId": "UC2lm36exeRNco0HcguJvGVQ",
+        "title": "레볼루셔너리 로드",
+        "description": "아카데미상®에 노미네이트된 레오나르도 디카프리오와 아카데미상® 수상자 케이트 윈슬렛, 두 강력한 스타가 리처드 예이츠의 동명 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jCSADOjvgz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jCSADOjvgz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jCSADOjvgz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-07-19T08:01:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t2kMtgfd_lOpvy243Qa0OwT_mmU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tR-mxq4T5BU"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-17T15:00:02Z",
+        "channelId": "UCGE5Ea115tkAgt5pQH5O_cw",
+        "title": "스티브 잡스",
+        "description": "디지털 혁명의 중심이었던 위대한 한 남자의 초상을 친밀하게 그려낸 스티브 잡스는 세 가지 아이콘적인 상품의 런칭 프레젠테이션을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tR-mxq4T5BU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tR-mxq4T5BU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tR-mxq4T5BU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YouTube Movies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-02-17T15:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "14uZZEFfHj-EZZ_Fwk2rk69p6Yg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zVVXZvJsFPM"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-17T13:00:24Z",
+        "channelId": "UCbH-RQDSysjpNEPHjIxA5UA",
+        "title": "Aerospace Engineer Interview and Spire Global Culture",
+        "description": "From Spire Global's Glasgow office, meet Astrophysicist and Aerospace Engineer, Naziyah Mahmood. Naziyah is on the Earth ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zVVXZvJsFPM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zVVXZvJsFPM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zVVXZvJsFPM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Spire Global",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-17T13:00:24Z"
+      }
+    }
+  ]
+}

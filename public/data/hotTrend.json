@@ -1,0 +1,1503 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "TtxYaUksRDFW28BjGfSlQosH9Jw",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "T5TyL3-YRwVr5FmqojM4rAKxpyw",
+      "id": "ZWb6wCKA_Pk",
+      "snippet": {
+        "publishedAt": "2023-10-03T14:00:20Z",
+        "channelId": "UC9YydG57epLqxA9cTzZXSeQ",
+        "title": "Multiplayer Trailer | Call of Duty: Modern Warfare III",
+        "description": "World Premiere of the #MW3 Multiplayer Trailer.\n\n16 iconic maps modernized for fast-paced combat 🏃\n\nTune into #CODNext on October 5 for the premiere of live Multiplayer gameplay https://www.youtube.com/watch?v=9o2bxsRvvEE 🔥\n\nFollow #CallofDuty for the latest intel:\nTwitter: http://twitter.com/CallofDuty\nInstagram: http://instagram.com/callofduty\nFacebook: http://facebook.com/CallofDuty\nTikTok: http://www.tiktok.com/@callofduty\n\n#ModernWarfare3 #CallofDuty",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZWb6wCKA_Pk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZWb6wCKA_Pk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZWb6wCKA_Pk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZWb6wCKA_Pk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZWb6wCKA_Pk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Call of Duty",
+        "tags": [
+          "call of duty",
+          "cod",
+          "activision",
+          "modern warfare 3",
+          "modern warfare iii",
+          "cod mw3",
+          "call of duty updates",
+          "call of duty modern warfare 3",
+          "modern warfare 3 2023",
+          "call of duty 2023",
+          "Warzone",
+          "COD",
+          "video game",
+          "gaming",
+          "online gaming",
+          "multiplayer",
+          "game",
+          "fps",
+          "blizzard",
+          "xbox",
+          "playstation",
+          "pc",
+          "maps",
+          "new call of duty games",
+          "modern warfare",
+          "games",
+          "new releases",
+          "teaser",
+          "trailer",
+          "Modern Warfare III",
+          "Call of Duty: Modern Warfare III",
+          "Call of Duty MW3",
+          "mw3 trailer",
+          "Multiplayer",
+          "Multiplayer trailer",
+          "premiere"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Multiplayer Trailer | Call of Duty: Modern Warfare III",
+          "description": "World Premiere of the #MW3 Multiplayer Trailer.\n\n16 iconic maps modernized for fast-paced combat 🏃\n\nTune into #CODNext on October 5 for the premiere of live Multiplayer gameplay https://www.youtube.com/watch?v=9o2bxsRvvEE 🔥\n\nFollow #CallofDuty for the latest intel:\nTwitter: http://twitter.com/CallofDuty\nInstagram: http://instagram.com/callofduty\nFacebook: http://facebook.com/CallofDuty\nTikTok: http://www.tiktok.com/@callofduty\n\n#ModernWarfare3 #CallofDuty"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NmkHt0nPJaaH_oGsptLQQFH7CoA",
+      "id": "qElvTW-8-W8",
+      "snippet": {
+        "publishedAt": "2023-10-03T15:00:39Z",
+        "channelId": "UC1sELGmy5jp5fQUugmuYlXQ",
+        "title": "Minecraft Live 2023: Vote for the crab!",
+        "description": "What’s that waving at Tiny Vu? Oh! It must be the crab, one of the three new mobs that wants to join Minecraft! The crab makes its home in the mangrove swamp and has one enormous claw! It doesn't just use it for waving at players (hello!) - this giant claw is actually very special. If a player manages to find one, they can use it to place blocks further away when building.  \n \nVote for your favorite mob from October 13 at 5 pm UTC via the Minecraft: Bedrock Edition event server, the Minecraft Launcher, or on Minecraft.net! Voting is open for just over 48 hours, and closes 15 minutes after the show starts. The winner of the mob vote will be announced at Minecraft  Live, so grab your snacks and get ready to tune into the show on October 15, from 5 pm UTC!\n\nLearn more at https://www.minecraft.net",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qElvTW-8-W8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qElvTW-8-W8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qElvTW-8-W8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qElvTW-8-W8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qElvTW-8-W8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Minecraft",
+        "tags": ["Minecraft Live", "New mobs", "Minecraft", "Mob vote"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Minecraft Live 2023: Vote for the crab!",
+          "description": "What’s that waving at Tiny Vu? Oh! It must be the crab, one of the three new mobs that wants to join Minecraft! The crab makes its home in the mangrove swamp and has one enormous claw! It doesn't just use it for waving at players (hello!) - this giant claw is actually very special. If a player manages to find one, they can use it to place blocks further away when building.  \n \nVote for your favorite mob from October 13 at 5 pm UTC via the Minecraft: Bedrock Edition event server, the Minecraft Launcher, or on Minecraft.net! Voting is open for just over 48 hours, and closes 15 minutes after the show starts. The winner of the mob vote will be announced at Minecraft  Live, so grab your snacks and get ready to tune into the show on October 15, from 5 pm UTC!\n\nLearn more at https://www.minecraft.net"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "z770JYoh4mFT7O88q1Eobmd6n0s",
+      "id": "44l6f7iXGAk",
+      "snippet": {
+        "publishedAt": "2023-10-03T16:10:36Z",
+        "channelId": "UC9RM-iSvTu1uPJb8X5yp3EQ",
+        "title": "Why West Virginia is so Poor",
+        "description": "Watch the Logistics of X episode diving deeper on the logistics of crowd control at the Hajj: https://nebula.tv/videos/wendover-the-logistics-of-coal-mining\nSign up for Nebula for 40% off at https://go.nebula.tv/wendover\n\nWatch Jet Lag: The Game at http://youtube.com/jetlagthegame \n\nBuy a Wendover Productions t-shirt: https://standard.tv/collections/wendover-productions/products/wendover-productions-shirt\n\nSubscribe to Half as Interesting (The other channel from Wendover Productions): https://www.youtube.com/halfasinteresting\n\nYoutube: http://www.YouTube.com/WendoverProductions\nInstagram: http://Instagram.com/sam.from.wendover\nTwitter: http://www.Twitter.com/WendoverPro\nSponsorship Enquiries: wendover@standard.tv\nOther emails: sam@wendover.productions\nReddit: http://Reddit.com/r/WendoverProductions\n\nWriting by Sam Denby and Tristan Purdy\nEditing by Alexander Williard\nAnimation led by Max Moser\nSound by Graham Haerther \nThumbnail by Simon Buckmaster\n\nReferences\n[1] https://measureofamerica.org/maps/?state^life_expect^all_all^Health^health  \n[2] https://dhhr.wv.gov/HSC/SS/Vital_Statistics/Documents/Vital2019.pdf \n[3] https://www.statista.com/statistics/193290/unemployment-rate-in-the-usa-since-1990/; https://www.statista.com/statistics/190813/unemployment-rate-in-west-virginia-since-1992/ \n[4] https://www.charlottesweb.com/where-in-us-poorest-mental-health \n[5] https://www.npr.org/2016/12/22/506550248/drug-firms-make-millions-by-sending-opioid-pills-to-w-va-report-says \n[6] https://www.arc.gov/wp-content/uploads/2022/02/West-Virginia-ARC-4-YR-Plan-FY-2022.pdf \n[7] https://www.researchgate.net/publication/261410553_The_Flatness_of_US_States \n[8] https://www.bls.gov/opub/btn/volume-9/forty-years-of-falling-manufacturing-employment.htm\n[9] https://www.nam.org/state-manufacturing-data/2021-west-virginia-manufacturing-facts/#:~:text=Manufacturers%20in%20West%20Virginia%20account,employing%207.01%25%20of%20the%20workforce",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/44l6f7iXGAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/44l6f7iXGAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/44l6f7iXGAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/44l6f7iXGAk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/44l6f7iXGAk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wendover Productions",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Why West Virginia is so Poor",
+          "description": "Watch the Logistics of X episode diving deeper on the logistics of crowd control at the Hajj: https://nebula.tv/videos/wendover-the-logistics-of-coal-mining\nSign up for Nebula for 40% off at https://go.nebula.tv/wendover\n\nWatch Jet Lag: The Game at http://youtube.com/jetlagthegame \n\nBuy a Wendover Productions t-shirt: https://standard.tv/collections/wendover-productions/products/wendover-productions-shirt\n\nSubscribe to Half as Interesting (The other channel from Wendover Productions): https://www.youtube.com/halfasinteresting\n\nYoutube: http://www.YouTube.com/WendoverProductions\nInstagram: http://Instagram.com/sam.from.wendover\nTwitter: http://www.Twitter.com/WendoverPro\nSponsorship Enquiries: wendover@standard.tv\nOther emails: sam@wendover.productions\nReddit: http://Reddit.com/r/WendoverProductions\n\nWriting by Sam Denby and Tristan Purdy\nEditing by Alexander Williard\nAnimation led by Max Moser\nSound by Graham Haerther \nThumbnail by Simon Buckmaster\n\nReferences\n[1] https://measureofamerica.org/maps/?state^life_expect^all_all^Health^health  \n[2] https://dhhr.wv.gov/HSC/SS/Vital_Statistics/Documents/Vital2019.pdf \n[3] https://www.statista.com/statistics/193290/unemployment-rate-in-the-usa-since-1990/; https://www.statista.com/statistics/190813/unemployment-rate-in-west-virginia-since-1992/ \n[4] https://www.charlottesweb.com/where-in-us-poorest-mental-health \n[5] https://www.npr.org/2016/12/22/506550248/drug-firms-make-millions-by-sending-opioid-pills-to-w-va-report-says \n[6] https://www.arc.gov/wp-content/uploads/2022/02/West-Virginia-ARC-4-YR-Plan-FY-2022.pdf \n[7] https://www.researchgate.net/publication/261410553_The_Flatness_of_US_States \n[8] https://www.bls.gov/opub/btn/volume-9/forty-years-of-falling-manufacturing-employment.htm\n[9] https://www.nam.org/state-manufacturing-data/2021-west-virginia-manufacturing-facts/#:~:text=Manufacturers%20in%20West%20Virginia%20account,employing%207.01%25%20of%20the%20workforce"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dbDU1zZg1Cx4S-PZx2xvyBMocuI",
+      "id": "DBWk6BohVXk",
+      "snippet": {
+        "publishedAt": "2023-10-03T13:00:17Z",
+        "channelId": "UCuPivVjnfNo4mb3Oog_frZg",
+        "title": "Priscilla | Official Trailer HD | A24",
+        "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nFrom Academy Award winning writer/director Sofia Coppola and starring Jacob Elordi and Cailee Spaeny. PRISCILLA – In Theaters Everywhere November 3.\n\nRELEASE DATE: November 3\nDIRECTOR: Sofia Coppola\nCAST: Jacob Elordi, Cailee Spaeny \n\nLike Priscilla on FACEBOOK: https://bit.ly/PriscillaMovieFB\nFollow Priscilla on TWITTER: https://bit.ly/PriscillaMovieTW\nFollow Priscilla on INSTAGRAM: https://bit.ly/PriscillaMovieIG\n\n------\n\nABOUT A24:\nThe studio behind MOONLIGHT, LADY BIRD, EX MACHINA, THE WITCH, EIGHTH GRADE, HEREDITARY & more.\n\nComing Soon: Dream Scenario, The Zone of Interest, The Iron Claw\n\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\nLike A24 on FACEBOOK: http://bit.ly/FBA24\nFollow A24 on TWITTER: http://bit.ly/TweetA24\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DBWk6BohVXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DBWk6BohVXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DBWk6BohVXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DBWk6BohVXk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DBWk6BohVXk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "A24",
+        "tags": [
+          "a24",
+          "a24 films",
+          "a24 trailers",
+          "independent films",
+          "trailer",
+          "HD",
+          "official",
+          "movie",
+          "film",
+          "a24 movies",
+          "oscar winner",
+          "academy award winner"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Priscilla | Official Trailer HD | A24",
+          "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nFrom Academy Award winning writer/director Sofia Coppola and starring Jacob Elordi and Cailee Spaeny. PRISCILLA – In Theaters Everywhere November 3.\n\nRELEASE DATE: November 3\nDIRECTOR: Sofia Coppola\nCAST: Jacob Elordi, Cailee Spaeny \n\nLike Priscilla on FACEBOOK: https://bit.ly/PriscillaMovieFB\nFollow Priscilla on TWITTER: https://bit.ly/PriscillaMovieTW\nFollow Priscilla on INSTAGRAM: https://bit.ly/PriscillaMovieIG\n\n------\n\nABOUT A24:\nThe studio behind MOONLIGHT, LADY BIRD, EX MACHINA, THE WITCH, EIGHTH GRADE, HEREDITARY & more.\n\nComing Soon: Dream Scenario, The Zone of Interest, The Iron Claw\n\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\nLike A24 on FACEBOOK: http://bit.ly/FBA24\nFollow A24 on TWITTER: http://bit.ly/TweetA24\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IKtLcW1w1Ur5ldFydt2b5HSmo4Q",
+      "id": "Da-EmG7Xw5A",
+      "snippet": {
+        "publishedAt": "2023-10-03T15:55:00Z",
+        "channelId": "UCsqjHFMB_JYTaEnf_vmTNqg",
+        "title": "I Bought A Lamborghini Countach!",
+        "description": "CHECK OUT CARS & BIDS!\nhttps://carsandbids.com\n\nI bought a Lamborghini Countach! The coolest car EVER! I tell you all about the Countach and my thought process on buying a car that is extremely un-Doug. \n\nWEBSITE & MERCH!\nhttp://www.dougdemuro.com\n\nFOLLOW CARS & BIDS!\nYouTube -  @carsandbids  \nInstagram - https://www.instagram.com/carsandbids/\nTikTok - https://www.tiktok.com/@cars_and_bids\nTwitter - https://twitter.com/carsandbids\n\nFOLLOW ME!\nTwitter - http://www.twitter.com/dougdemuro\nInstagram - http://www.instagram.com/dougdemuro\nFacebook - http://www.facebook.com/ddemuro\n\nDOUGSCORE CHART:\nhttps://www.dougdemuro.com/dougscore\n\nCHAPTERS:\n00:00 CARS & BIDS!!!\n00:13 THIS... is MY Countach!\n00:42 Why did I buy a Countach?\n04:18 Insanity Above All Else\n05:16 Appreciation\n06:51 YouTube Colleagues and the Countach @TheStradman @TheSmokingTire @harrysgarage @HooviesGarage @TheHamiltonCollection \n08:48 Isn't it unreliable?\n15:09 My Countach Details\n17:37 The Wing\n18:45 5000 vs 500\n19:33 Round Belly\n20:24 It's Been Driven\n22:38 Driving Experience\n27:33 Final Thoughts\n\n#dougdemuro #cars #lamborghini #lamborghinicountach #countach",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Da-EmG7Xw5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Da-EmG7Xw5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Da-EmG7Xw5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Da-EmG7Xw5A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Da-EmG7Xw5A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Doug DeMuro",
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I Bought A Lamborghini Countach!",
+          "description": "CHECK OUT CARS & BIDS!\nhttps://carsandbids.com\n\nI bought a Lamborghini Countach! The coolest car EVER! I tell you all about the Countach and my thought process on buying a car that is extremely un-Doug. \n\nWEBSITE & MERCH!\nhttp://www.dougdemuro.com\n\nFOLLOW CARS & BIDS!\nYouTube -  @carsandbids  \nInstagram - https://www.instagram.com/carsandbids/\nTikTok - https://www.tiktok.com/@cars_and_bids\nTwitter - https://twitter.com/carsandbids\n\nFOLLOW ME!\nTwitter - http://www.twitter.com/dougdemuro\nInstagram - http://www.instagram.com/dougdemuro\nFacebook - http://www.facebook.com/ddemuro\n\nDOUGSCORE CHART:\nhttps://www.dougdemuro.com/dougscore\n\nCHAPTERS:\n00:00 CARS & BIDS!!!\n00:13 THIS... is MY Countach!\n00:42 Why did I buy a Countach?\n04:18 Insanity Above All Else\n05:16 Appreciation\n06:51 YouTube Colleagues and the Countach @TheStradman @TheSmokingTire @harrysgarage @HooviesGarage @TheHamiltonCollection \n08:48 Isn't it unreliable?\n15:09 My Countach Details\n17:37 The Wing\n18:45 5000 vs 500\n19:33 Round Belly\n20:24 It's Been Driven\n22:38 Driving Experience\n27:33 Final Thoughts\n\n#dougdemuro #cars #lamborghini #lamborghinicountach #countach"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tCat7k6sN7sP7vIDpJPkAc3qMEU",
+      "id": "23qy8OjNabs",
+      "snippet": {
+        "publishedAt": "2023-10-03T15:15:00Z",
+        "channelId": "UCvt0HYxX34vUvqu66HLXeUw",
+        "title": "I Built a Calculator in Survival Minecraft",
+        "description": "I pulled an all-nighter to finish editing this. it's 9am\n\nThanks to @mattbatwings and @FeinbergMC for the help\n\nWhere I get my music: \n-Epidemic Sound-   https://www.epidemicsound.com/referral/hdky6e/\n-Artlist-   https://artlist.io/Parker-2274364\n\nBeat Prod. by LitKidBeats\nhttps://litkidbeats.com\nBEAT LINK FROM YOUTUBE",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/23qy8OjNabs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/23qy8OjNabs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/23qy8OjNabs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/23qy8OjNabs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/23qy8OjNabs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "rekrap2",
+        "tags": ["rekrap", "lifesteal", "Minecraft"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I Built a Calculator in Survival Minecraft",
+          "description": "I pulled an all-nighter to finish editing this. it's 9am\n\nThanks to @mattbatwings and @FeinbergMC for the help\n\nWhere I get my music: \n-Epidemic Sound-   https://www.epidemicsound.com/referral/hdky6e/\n-Artlist-   https://artlist.io/Parker-2274364\n\nBeat Prod. by LitKidBeats\nhttps://litkidbeats.com\nBEAT LINK FROM YOUTUBE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xuVFMTeflYBZMA8oNNmc9QHO6Oo",
+      "id": "n6npyxD_YuU",
+      "snippet": {
+        "publishedAt": "2023-10-02T04:30:11Z",
+        "channelId": "UCFN4JkGP_bVhAdBsoV9xftA",
+        "title": "\"Rated R Superstar\" Adam Copeland has arrived at ALL ELITE WRESTLING! | AEW WrestleDream 10/1/23",
+        "description": "#AEW #AEWDynamite #AEWCollision #AdamCopeland #RatedRSuperStar #aewwrestledream \nDid you miss the #AEWWrestleDream PPV? Order it right now!\n🇺🇸: aewevents.com/wrestle-dream\n🌐: allelitewrestling.com/watchwrestledream\n\nRated R Superstar\" Adam Copeland has arrived at ALL ELITE WRESTLING! | AEW WrestleDream\n\nThe golden era of wrestling games is back! AEW: Fight Forever is available now on your favorite console and PC! Buy it now! - https://aew.thqnordic.com/\n\nSUBSCRIBE now and never miss a new video:  @AEW  \nSUBSCRIBE to our PODCAST CHANNEL:  @AEWPodcasts  \n\n• AEW Dynamite airs every Wednesday night 8e/7c on TBS\n• AEW Rampage airs every Friday night 10e/9c on TNT\n• AEW Collision airs every Saturday at 8e/7c on TNT\n\nHow to watch Dynamite, Rampage, special events and Pay Per View \n➡️  TBS - https://www.tbs.com/allelitewrestling\n➡️  TNT - https://www.TNTdrama.com/aew\n➡️  Bleacher Report - https://www.BleacherReport.com\n➡️  FITE TV - https://www.fite.tv/channel/aew (For international fans only)\n\nFollow #AllEliteWrestling on all social media platforms\n➡️  https://www.Twitter.com/aew\n➡️  https://www.instagram.com/aew\n➡️  https://www.Facebook.com/aew\n➡️  https://www.Twitter.com/AEWonTV\n➡️  https://www.instagram.com/AEWonTV\n➡️  TikTok - AllEliteWrestling\n➡️  Snapchat - AEW\n\nWelcome to the All Elite Wrestling YouTube channel! Here you can find the latest highlights from AEW Dynamite, AEW Rampage and AEW Collision. A world-class roster of diverse male and female wrestlers give you a new wrestling experience. Subscribe today so you don't miss the latest videos from All Elite Wrestling!\n\nThis video is AEW intellectual property. It is intended for only the private use of our audience.  No part of this show may be reproduced, broadcast or exhibited in any form or by any means without the consent of AEW.  It is also prohibited for users to generate revenue from the broadcast or exhibition by the user of any AEW content (including media scrums or other editorial materials) without the consent of AEW.\n\nAbout AEW\n\nFounded by CEO, GM and Head of Creative Tony Khan in 2019, AEW is offering an alternative to mainstream wrestling, with a roster of world-class talent that is injecting new spirit, freshness and energy into the industry.  “AEW: Dynamite” airs every Wednesday from 8-10 p.m. ET on TBS and attracts the youngest wrestling audience on television.  The fight-forward “AEW: Rampage” airs every Friday from 10-11 p.m. ET on TNT, and the new “AEW: Collision” airs every Saturday from 8-10 p.m. ET on TNT.  AEW’s multi-platform content also includes “Being the Elite,” a weekly behind-the-scenes YouTube series, and “AEW Unrestricted,” a weekly podcast series.  \n\nFor more info, check out Twitter.com/AEW; Instagram.com/AEW; YouTube.com/AEW; Facebook.com/AEW",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n6npyxD_YuU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n6npyxD_YuU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n6npyxD_YuU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n6npyxD_YuU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n6npyxD_YuU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "All Elite Wrestling",
+        "tags": [
+          "aew",
+          "aew dynamite",
+          "aew dynamite highlights this week",
+          "aew dynamite highlights",
+          "aew on tnt",
+          "aew road to",
+          "all elite wrestling",
+          "pro wrestling",
+          "aew on tbs",
+          "aew rampage",
+          "aew highlights",
+          "aew rampage highlights",
+          "aew zero hour",
+          "aew buy in",
+          "Adam",
+          "Copeland",
+          "Rated R",
+          "Superstar",
+          "Edge",
+          "Christian",
+          "Cage",
+          "Christian Cage",
+          "Adam Copeland",
+          "Rated R Superstar",
+          "Metalingus",
+          "sting",
+          "Darby",
+          "Allin"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "\"Rated R Superstar\" Adam Copeland has arrived at ALL ELITE WRESTLING! | AEW WrestleDream 10/1/23",
+          "description": "#AEW #AEWDynamite #AEWCollision #AdamCopeland #RatedRSuperStar #aewwrestledream \nDid you miss the #AEWWrestleDream PPV? Order it right now!\n🇺🇸: aewevents.com/wrestle-dream\n🌐: allelitewrestling.com/watchwrestledream\n\nRated R Superstar\" Adam Copeland has arrived at ALL ELITE WRESTLING! | AEW WrestleDream\n\nThe golden era of wrestling games is back! AEW: Fight Forever is available now on your favorite console and PC! Buy it now! - https://aew.thqnordic.com/\n\nSUBSCRIBE now and never miss a new video:  @AEW  \nSUBSCRIBE to our PODCAST CHANNEL:  @AEWPodcasts  \n\n• AEW Dynamite airs every Wednesday night 8e/7c on TBS\n• AEW Rampage airs every Friday night 10e/9c on TNT\n• AEW Collision airs every Saturday at 8e/7c on TNT\n\nHow to watch Dynamite, Rampage, special events and Pay Per View \n➡️  TBS - https://www.tbs.com/allelitewrestling\n➡️  TNT - https://www.TNTdrama.com/aew\n➡️  Bleacher Report - https://www.BleacherReport.com\n➡️  FITE TV - https://www.fite.tv/channel/aew (For international fans only)\n\nFollow #AllEliteWrestling on all social media platforms\n➡️  https://www.Twitter.com/aew\n➡️  https://www.instagram.com/aew\n➡️  https://www.Facebook.com/aew\n➡️  https://www.Twitter.com/AEWonTV\n➡️  https://www.instagram.com/AEWonTV\n➡️  TikTok - AllEliteWrestling\n➡️  Snapchat - AEW\n\nWelcome to the All Elite Wrestling YouTube channel! Here you can find the latest highlights from AEW Dynamite, AEW Rampage and AEW Collision. A world-class roster of diverse male and female wrestlers give you a new wrestling experience. Subscribe today so you don't miss the latest videos from All Elite Wrestling!\n\nThis video is AEW intellectual property. It is intended for only the private use of our audience.  No part of this show may be reproduced, broadcast or exhibited in any form or by any means without the consent of AEW.  It is also prohibited for users to generate revenue from the broadcast or exhibition by the user of any AEW content (including media scrums or other editorial materials) without the consent of AEW.\n\nAbout AEW\n\nFounded by CEO, GM and Head of Creative Tony Khan in 2019, AEW is offering an alternative to mainstream wrestling, with a roster of world-class talent that is injecting new spirit, freshness and energy into the industry.  “AEW: Dynamite” airs every Wednesday from 8-10 p.m. ET on TBS and attracts the youngest wrestling audience on television.  The fight-forward “AEW: Rampage” airs every Friday from 10-11 p.m. ET on TNT, and the new “AEW: Collision” airs every Saturday from 8-10 p.m. ET on TNT.  AEW’s multi-platform content also includes “Being the Elite,” a weekly behind-the-scenes YouTube series, and “AEW Unrestricted,” a weekly podcast series.  \n\nFor more info, check out Twitter.com/AEW; Instagram.com/AEW; YouTube.com/AEW; Facebook.com/AEW"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6UoUAt_d9Pl5w_O9CKz6auM1E7A",
+      "id": "nq1M_Wc4FIc",
+      "snippet": {
+        "publishedAt": "2023-10-03T00:25:19Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Marvel's Spider-Man 2 - Be Greater. Together. Trailer I PS5 Games",
+        "description": "https://www.playstation.com/en-us/games/marvels-spider-man-2\n\nSpider-Men, Peter Parker and Miles Morales, return for an exciting new adventure in the critically acclaimed Marvel’s Spider-Man franchise for the PS5 console. Equipped with Miles’ new bioelectric venom power and Peter’s Spider-Arms, the Spider-Men face the ultimate test of strength inside and outside the mask as they fight to save the city, each other and the ones they love, from the monstrous Venom. Marvel’s Spider-Man 2 launches October 20, 2023.\n\nFor more information, follow Insomniac Games on social media:  \n- twitter.com/InsomniacGames\n- instagram.com/InsomniacGames\n- facebook.com/InsomniacGames\n- discord.gg/InsomniacGames\n\n#ps5 #ps5games #spiderman",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nq1M_Wc4FIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nq1M_Wc4FIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nq1M_Wc4FIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nq1M_Wc4FIc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nq1M_Wc4FIc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PlayStation",
+        "tags": [
+          "PlayStation",
+          "PS5",
+          "video games",
+          "next gen",
+          "Sony",
+          "Marvel's Spider-Man 2",
+          "Spider-Man 2",
+          "Spider-Man",
+          "Miles Morales",
+          "Peter Parker",
+          "Insomniac Games",
+          "Marvel Games",
+          "Venom",
+          "Cinematic Trailer",
+          "CG Trailer",
+          "Spider-Man Commercial",
+          "Spider-Man 2 Commercial"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Marvel's Spider-Man 2 - Be Greater. Together. Trailer I PS5 Games",
+          "description": "https://www.playstation.com/en-us/games/marvels-spider-man-2\n\nSpider-Men, Peter Parker and Miles Morales, return for an exciting new adventure in the critically acclaimed Marvel’s Spider-Man franchise for the PS5 console. Equipped with Miles’ new bioelectric venom power and Peter’s Spider-Arms, the Spider-Men face the ultimate test of strength inside and outside the mask as they fight to save the city, each other and the ones they love, from the monstrous Venom. Marvel’s Spider-Man 2 launches October 20, 2023.\n\nFor more information, follow Insomniac Games on social media:  \n- twitter.com/InsomniacGames\n- instagram.com/InsomniacGames\n- facebook.com/InsomniacGames\n- discord.gg/InsomniacGames\n\n#ps5 #ps5games #spiderman"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "P7XsOGa9_qsRlAZz8yHTixoTFQA",
+      "id": "tNVXm3XCcak",
+      "snippet": {
+        "publishedAt": "2023-10-02T20:06:57Z",
+        "channelId": "UCZwJNsS8DxGT8iTtOVbYUNg",
+        "title": "JaidynAlexis - Barbie [Official Music Video]",
+        "description": "MILF MUSIC \nShot By @LewisYouNasty",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tNVXm3XCcak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tNVXm3XCcak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tNVXm3XCcak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tNVXm3XCcak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tNVXm3XCcak/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "blueface bleedem",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "JaidynAlexis - Barbie [Official Music Video]",
+          "description": "MILF MUSIC \nShot By @LewisYouNasty"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IL9RJJGExib-JQIDwZkW7_NvG-w",
+      "id": "rMbehw7yO6w",
+      "snippet": {
+        "publishedAt": "2023-10-03T15:09:06Z",
+        "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+        "title": "[스우파2] 화사 신곡 시안 미션 대중 평가 l 잼 리퍼블릭(JAM REPUBLIC)",
+        "description": "[스우파2] 화사 신곡 시안 미션 대중 평가 l 잼 리퍼블릭(JAM REPUBLIC)\n\n지금 바로!\n화사의 〈Chili〉와 가장 잘 어울리는 퍼포먼스에 투표해주세요🔥\n\n📍투표 기간: ~ 10/10(화) 24:00 (KST)\n📍투표 플랫폼\n① 유튜브 The CHOOM https://www.youtube.com/c/TheChoomofficial\n② Mnet Plus https://rb.gy/4mbn6\n③ 공식 SNS(인스타그램/틱톡)\n\n📍유의사항\n① 글로벌 대중 투표 점수는 유튜브 The CHOOM 채널에 게시된 평가 영상의 좋아요수 x 100과 조회수, Mnet Plus 투표수 x 100의 합으로 산정됩니다.\n② 동영상 캠페인 프로모션 및 각종 어뷰징으로 인한 조회수는 집계에 미포함 됩니다.\n③ 엠넷 플러스 앱 내의 투표는 하루에 한 번만 할 수 있으며 다중투표는 가능하나 중복투표는 불가능합니다. (24:00 (KST)에 다시 투표 가능)\n④ '칠리 챌린지' 가산점의 경우 10월 4일 18시부터 10월 10일 24시까지 집계되며, 필터를 적용하지 않을 시 집계에 미포함 됩니다.\n\n글로벌 춤 서열 1위를 가려라!\n〈스트릿 우먼 파이터2〉\n매주 화요일 밤 10시 본 방송\n\n==\n\n[SWF2] Hwasa’s New Song Choreography Draft Mission Public Vote\n\nRight now!\nPlease vote for the performance that best matches HWASA's 〈Chili〉🔥\n\n📍 Voting Period: ~ 10/10(Tue) 24:00(KST)\n📍 Voting Platform\n① YouTube 'The CHOOM'\n② Mnet Plus Application\n③ Official SNS (Instagram/TikTok)\n\n📍 Check Point\n① The global rating score is calculated as the sum of likes x 100 and views of the evaluation video posted on the YouTube The CHOOM channel, and Mnet Plus vote x 100.\n② Views due to video campaign promotion and various abusing are not included in the count.\n③ Voting within the 'Mnet Plus' app can only be done once a day. Multiple voting is possible, but duplicate voting is not possible. (You can vote again at 24:00 (KST))\n④ Additional points for the 'Chili Challenge' are calculated from 18:00 on October 4 to 24:00 on October 10, and the vidoes that doesn't applied with filter are tnot included in the count.\n\n\n#스트릿우먼파이터2 #StreetWomanFighter2 #스우파2 #SWF2 #강다니엘 #KANGDANIEL #모니카 #MONIKA #셔누 #SHOWNU #화사 #HWASA #Chili #1MILLION #베베 #BEBE #딥앤댑 #DEEPNDAP #잼리퍼블릭 #JAMREPUBLIC #레이디바운스 #LADYBOUNCE #마네퀸 #MANNEQUEEN #츠바킬 #TSUBAKILL #울플러 #WolfLo #엠넷 #Mnet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rMbehw7yO6w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rMbehw7yO6w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rMbehw7yO6w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rMbehw7yO6w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rMbehw7yO6w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The CHOOM (더 춤)",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[스우파2] 화사 신곡 시안 미션 대중 평가 l 잼 리퍼블릭(JAM REPUBLIC)",
+          "description": "[스우파2] 화사 신곡 시안 미션 대중 평가 l 잼 리퍼블릭(JAM REPUBLIC)\n\n지금 바로!\n화사의 〈Chili〉와 가장 잘 어울리는 퍼포먼스에 투표해주세요🔥\n\n📍투표 기간: ~ 10/10(화) 24:00 (KST)\n📍투표 플랫폼\n① 유튜브 The CHOOM https://www.youtube.com/c/TheChoomofficial\n② Mnet Plus https://rb.gy/4mbn6\n③ 공식 SNS(인스타그램/틱톡)\n\n📍유의사항\n① 글로벌 대중 투표 점수는 유튜브 The CHOOM 채널에 게시된 평가 영상의 좋아요수 x 100과 조회수, Mnet Plus 투표수 x 100의 합으로 산정됩니다.\n② 동영상 캠페인 프로모션 및 각종 어뷰징으로 인한 조회수는 집계에 미포함 됩니다.\n③ 엠넷 플러스 앱 내의 투표는 하루에 한 번만 할 수 있으며 다중투표는 가능하나 중복투표는 불가능합니다. (24:00 (KST)에 다시 투표 가능)\n④ '칠리 챌린지' 가산점의 경우 10월 4일 18시부터 10월 10일 24시까지 집계되며, 필터를 적용하지 않을 시 집계에 미포함 됩니다.\n\n글로벌 춤 서열 1위를 가려라!\n〈스트릿 우먼 파이터2〉\n매주 화요일 밤 10시 본 방송\n\n==\n\n[SWF2] Hwasa’s New Song Choreography Draft Mission Public Vote\n\nRight now!\nPlease vote for the performance that best matches HWASA's 〈Chili〉🔥\n\n📍 Voting Period: ~ 10/10(Tue) 24:00(KST)\n📍 Voting Platform\n① YouTube 'The CHOOM'\n② Mnet Plus Application\n③ Official SNS (Instagram/TikTok)\n\n📍 Check Point\n① The global rating score is calculated as the sum of likes x 100 and views of the evaluation video posted on the YouTube The CHOOM channel, and Mnet Plus vote x 100.\n② Views due to video campaign promotion and various abusing are not included in the count.\n③ Voting within the 'Mnet Plus' app can only be done once a day. Multiple voting is possible, but duplicate voting is not possible. (You can vote again at 24:00 (KST))\n④ Additional points for the 'Chili Challenge' are calculated from 18:00 on October 4 to 24:00 on October 10, and the vidoes that doesn't applied with filter are tnot included in the count.\n\n\n#스트릿우먼파이터2 #StreetWomanFighter2 #스우파2 #SWF2 #강다니엘 #KANGDANIEL #모니카 #MONIKA #셔누 #SHOWNU #화사 #HWASA #Chili #1MILLION #베베 #BEBE #딥앤댑 #DEEPNDAP #잼리퍼블릭 #JAMREPUBLIC #레이디바운스 #LADYBOUNCE #마네퀸 #MANNEQUEEN #츠바킬 #TSUBAKILL #울플러 #WolfLo #엠넷 #Mnet"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aCNmB-_ZAdFyYOhI7JbGWDuLwN0",
+      "id": "QwmaFjzPHhY",
+      "snippet": {
+        "publishedAt": "2023-10-03T01:21:10Z",
+        "channelId": "UCgKpcxVyF0qXU1h_Irzd7XA",
+        "title": "Rhea Ripley blames Damian Priest for Judgment Day crumbling, Jey Uso and Cody Rhodes attack",
+        "description": "Rhea Ripley returned to Monday Night Raw and wasted no time in calling out Damian Priest for the Judgment Day beginning to fall apart while Finn Bálor remains injured and Dominik Mysterio lost his NXT North American Championship. Jey Uso was quick to welcome back the Women’s World Champion before starting a brawl with the help of The American Nightmare Cody Rhodes.\n\n#WWEonFOX #Raw #RheaRipley\n\nSUBSCRIBE for more from WWE ON FOX: https://foxs.pt/SubscribeWWEONFOX\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n►FOX Sports YouTube channel: http://foxs.pt/SubscribeFOXSPORTS\n►PBC ON FOX’s YouTube Channel: https://foxs.pt/SubscribePBCONFOX\n►CFB ON FOX YouTube channel: https://foxs.pt/SubscribeCFBonFOX\n►FOX Soccer’s YouTube channel: https://foxs.pt/SubscribeFOXSOCCER\n►NASCAR ON FOX YouTube channel: https://foxs.pt/SubscribeNASCARonFOX\n\nSee more from WWE ON FOX: https://foxs.pt/WWEONFOXFoxSports\nLike WWE ON FOX on Facebook: https://foxs.pt/WWEONFOXFacebook\nFollow WWE ON FOX on Twitter: https://foxs.pt/WWEONFOXTwitter\nFollow WWE ON FOX on Instagram: https://foxs.pt/WWEONFOXInstagram\n\nAbout WWE ON FOX:\nYour official home for all things WWE on FOX, from Friday Night SmackDown to NXT and everything in between! WWE highlights, WWE Backstage segments, original stories with your favorite Superstars, and much, much more — find it all right here on WWE on FOX!\n\nRhea Ripley blames Damian Priest for Judgment Day crumbling, Jey Uso and Cody Rhodes attack\nhttps://youtu.be/QwmaFjzPHhY\n\nWWE ON FOX\nhttps://www.youtube.com/c/WWEonFOX",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QwmaFjzPHhY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QwmaFjzPHhY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QwmaFjzPHhY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QwmaFjzPHhY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QwmaFjzPHhY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WWE ON FOX",
+        "tags": [
+          "wwe",
+          "wwe on fox",
+          "wrestling",
+          "smackdown",
+          "smackdown highlights",
+          "friday night smackdown",
+          "wwe backstage",
+          "monday night raw",
+          "monday night raw highlights",
+          "fox sports",
+          "fox",
+          "fs1",
+          "fox sports 1",
+          "sports news",
+          "sports fox",
+          "fox sports highlights",
+          "highlights",
+          "Rhea Ripley",
+          "Nia Jax",
+          "Shayna Baszler raw",
+          "Raquel Rodriguez",
+          "Shayna Baszler",
+          "WWE Women’s World Champion Rhea Ripley",
+          "Women’s World Champion",
+          "Judgment Day crumbling",
+          "Jey Uso",
+          "Judgment Day",
+          "Damian Priest",
+          "The American Nightmare",
+          "Cody Rhodes"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Rhea Ripley blames Damian Priest for Judgment Day crumbling, Jey Uso and Cody Rhodes attack",
+          "description": "Rhea Ripley returned to Monday Night Raw and wasted no time in calling out Damian Priest for the Judgment Day beginning to fall apart while Finn Bálor remains injured and Dominik Mysterio lost his NXT North American Championship. Jey Uso was quick to welcome back the Women’s World Champion before starting a brawl with the help of The American Nightmare Cody Rhodes.\n\n#WWEonFOX #Raw #RheaRipley\n\nSUBSCRIBE for more from WWE ON FOX: https://foxs.pt/SubscribeWWEONFOX\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n►FOX Sports YouTube channel: http://foxs.pt/SubscribeFOXSPORTS\n►PBC ON FOX’s YouTube Channel: https://foxs.pt/SubscribePBCONFOX\n►CFB ON FOX YouTube channel: https://foxs.pt/SubscribeCFBonFOX\n►FOX Soccer’s YouTube channel: https://foxs.pt/SubscribeFOXSOCCER\n►NASCAR ON FOX YouTube channel: https://foxs.pt/SubscribeNASCARonFOX\n\nSee more from WWE ON FOX: https://foxs.pt/WWEONFOXFoxSports\nLike WWE ON FOX on Facebook: https://foxs.pt/WWEONFOXFacebook\nFollow WWE ON FOX on Twitter: https://foxs.pt/WWEONFOXTwitter\nFollow WWE ON FOX on Instagram: https://foxs.pt/WWEONFOXInstagram\n\nAbout WWE ON FOX:\nYour official home for all things WWE on FOX, from Friday Night SmackDown to NXT and everything in between! WWE highlights, WWE Backstage segments, original stories with your favorite Superstars, and much, much more — find it all right here on WWE on FOX!\n\nRhea Ripley blames Damian Priest for Judgment Day crumbling, Jey Uso and Cody Rhodes attack\nhttps://youtu.be/QwmaFjzPHhY\n\nWWE ON FOX\nhttps://www.youtube.com/c/WWEonFOX"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "oNqvh4a087yQPDaBgkMMkObNRw0",
+      "id": "MoPBwUfh4jY",
+      "snippet": {
+        "publishedAt": "2023-10-03T15:19:48Z",
+        "channelId": "UCVSSpcmZD2PwPBqb8yKQKBA",
+        "title": "Stephen A. declares Damian Lillard & Giannis will be the NBA's BEST DUO 😎 | First Take",
+        "description": "Stephen A. declares Damian Lillard & Giannis will be the NBA's BEST DUO 😎 | First Take\nStephen A. Smith argues that Damian Lillard & Giannis Antetokounmpo will be the best duo in the NBA, while Shannon Sharpe makes a case for Nikola Jokic and Jamal Murray.\n#ESPN #NBA #FirstTake\r\n\n☑️ Subscribe to ESPN+: https://plus.espn.com/\n📱Get the ESPN App: http://www.espn.com/espn/apps/espn\n🏀 Subscribe to NBA on ESPN on YouTube: http://bit.ly/2yxs3Og\n☑️Subscribe to ESPN on YouTube: http://es.pn/SUBSCRIBEtoYOUTUBE\n☑️Watch ESPN on YouTube TV: http://es.pn/YouTubeTV",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MoPBwUfh4jY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MoPBwUfh4jY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MoPBwUfh4jY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MoPBwUfh4jY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MoPBwUfh4jY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NBA on ESPN",
+        "tags": [
+          "First Take",
+          "first take espn",
+          "espn first take",
+          "Stephen a smith",
+          "Stephen a",
+          "Stephen A. Smith",
+          "First Take on ESPN",
+          "Stephen a first take",
+          "Stephen A. First Take",
+          "ESPN",
+          "milwaukee bucks",
+          "damian lillard",
+          "damian lillard bucks",
+          "damian lillard trade",
+          "stephen a smith",
+          "stephen a smith first take",
+          "stephen a first take",
+          "lillard",
+          "dame time",
+          "lillard trade",
+          "lillard bucks",
+          "nba news",
+          "nba",
+          "monica mcnutt",
+          "shannon sharpe",
+          "nikola jokic",
+          "jokic",
+          "jamal murray",
+          "shannon sharpe first take",
+          "nuggets"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Stephen A. declares Damian Lillard & Giannis will be the NBA's BEST DUO 😎 | First Take",
+          "description": "Stephen A. declares Damian Lillard & Giannis will be the NBA's BEST DUO 😎 | First Take\nStephen A. Smith argues that Damian Lillard & Giannis Antetokounmpo will be the best duo in the NBA, while Shannon Sharpe makes a case for Nikola Jokic and Jamal Murray.\n#ESPN #NBA #FirstTake\r\n\n☑️ Subscribe to ESPN+: https://plus.espn.com/\n📱Get the ESPN App: http://www.espn.com/espn/apps/espn\n🏀 Subscribe to NBA on ESPN on YouTube: http://bit.ly/2yxs3Og\n☑️Subscribe to ESPN on YouTube: http://es.pn/SUBSCRIBEtoYOUTUBE\n☑️Watch ESPN on YouTube TV: http://es.pn/YouTubeTV"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XQ1tnbqeEHjx0OmIQ9GM-T7iWPk",
+      "id": "qbg0Tz33qLM",
+      "snippet": {
+        "publishedAt": "2023-10-03T14:57:43Z",
+        "channelId": "UCXoY0ZeHZBe0p-ByCiYP_XQ",
+        "title": "10 UNUSUAL Beauty Products You Won't Believe Exist",
+        "description": "😍 Subscribe to my channel : http://bit.ly/2hjbrRN :) \n💄  DO MY MAKEUP video/game : https://goo.gl/OEknnf\n🍕 Check out my SECOND Channel: https://goo.gl/WJCHNy\n-\n💜 Products Used: \n- Alleyoop Pen Pal ( 4 in 1 makeup pen ) - https://bit.ly/48uY0qW\n- Alleyoop 4 in 1 Brush - https://bit.ly/46ydHvF\n- Kaja Joystick Undereye Setting Powder - https://bit.ly/3F85Edf\n- Wonderskin Peel Off Lipstain - https://bit.ly/3ZDKv48\n- Cotton Swab lipstick - https://bit.ly/3tiXlsJ\n- Kryolan Tear Stick - https://bit.ly/3RCGcUW\n- Unseen Color Changing Hair Dye - https://bit.ly/3LJtujr\n- Unseen Invisible Shimmer Eyeshadow - https://bit.ly/3PYVl1A\n- Florasis Lipstick - https://bit.ly/3EZfpe3\n- Paul&Joe lipsticks ( bears and cat ) - https://bit.ly/3PHdNKJ\n\nFind me on : \n⭐ Facebook : https://www.facebook.com/Denitslava/\n⭐ Instagram : https://www.instagram.com/denitslava/\n⭐ TikTok: https://www.tiktok.com/@denitslavaa\n\n-\n🦋Discount codes :\nSigma Beauty - \" Denitslava \" for 10% off\nhttps://www.sigmabeauty.com/\n\nVelour Lashes - \" Denitslava \" for 15% off\nhttps://velourlashes.com/\n\nOfra Cosmetics - \" Denitslava \" for 30% off\nhttps://www.ofracosmetics.com\n\nColourpop - \" Denitsa\" for 10% off - https://colourpop.sjv.io/NK95zq\n-\nFALSE LASHES Tutorial : https://goo.gl/N8AsdO\nEYEBROW Tutorial : https://youtu.be/Wj3p0bo_2w0\nEYELINER Tutorial: https://goo.gl/ffuQXl\n-\nUsing my discount codes saves you some bucks, but I also earn a small commission. Some of the links above are affiliate.\n-\nYayy! You reached to the bottom of the description box! \nComment \" ❤❤❤ \" so I know you did! xoxoxo\n\n♥♥♥ THANK YOU SO MUCH FOR WATCHING ♥♥♥",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qbg0Tz33qLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qbg0Tz33qLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qbg0Tz33qLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qbg0Tz33qLM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qbg0Tz33qLM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Denitslava Makeup",
+        "tags": [
+          "makeup tutorial",
+          "makeup challenge",
+          "makeup routine",
+          "korean beauty",
+          "korean makeup",
+          "yesstyle",
+          "full face of",
+          "i tried",
+          "i tested",
+          "k-beauty",
+          "k beauty",
+          "buzzfeed",
+          "korean skincare",
+          "glass skin",
+          "skincare routine",
+          "mascara",
+          "lipstick",
+          "face mask",
+          "eyeliner",
+          "blush",
+          "contour",
+          "highlighter",
+          "affordable",
+          "cheap",
+          "easy makeup",
+          "5 minute makeup",
+          "10 minute makeup",
+          "everyday makeup",
+          "prom makeup",
+          "vogue",
+          "hairstyles",
+          "japanese makeup",
+          "asian beauty",
+          "asian makeup",
+          "full face of first impressions",
+          "wish",
+          "tik tok",
+          "wish makeup"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "10 UNUSUAL Beauty Products You Won't Believe Exist",
+          "description": "😍 Subscribe to my channel : http://bit.ly/2hjbrRN :) \n💄  DO MY MAKEUP video/game : https://goo.gl/OEknnf\n🍕 Check out my SECOND Channel: https://goo.gl/WJCHNy\n-\n💜 Products Used: \n- Alleyoop Pen Pal ( 4 in 1 makeup pen ) - https://bit.ly/48uY0qW\n- Alleyoop 4 in 1 Brush - https://bit.ly/46ydHvF\n- Kaja Joystick Undereye Setting Powder - https://bit.ly/3F85Edf\n- Wonderskin Peel Off Lipstain - https://bit.ly/3ZDKv48\n- Cotton Swab lipstick - https://bit.ly/3tiXlsJ\n- Kryolan Tear Stick - https://bit.ly/3RCGcUW\n- Unseen Color Changing Hair Dye - https://bit.ly/3LJtujr\n- Unseen Invisible Shimmer Eyeshadow - https://bit.ly/3PYVl1A\n- Florasis Lipstick - https://bit.ly/3EZfpe3\n- Paul&Joe lipsticks ( bears and cat ) - https://bit.ly/3PHdNKJ\n\nFind me on : \n⭐ Facebook : https://www.facebook.com/Denitslava/\n⭐ Instagram : https://www.instagram.com/denitslava/\n⭐ TikTok: https://www.tiktok.com/@denitslavaa\n\n-\n🦋Discount codes :\nSigma Beauty - \" Denitslava \" for 10% off\nhttps://www.sigmabeauty.com/\n\nVelour Lashes - \" Denitslava \" for 15% off\nhttps://velourlashes.com/\n\nOfra Cosmetics - \" Denitslava \" for 30% off\nhttps://www.ofracosmetics.com\n\nColourpop - \" Denitsa\" for 10% off - https://colourpop.sjv.io/NK95zq\n-\nFALSE LASHES Tutorial : https://goo.gl/N8AsdO\nEYEBROW Tutorial : https://youtu.be/Wj3p0bo_2w0\nEYELINER Tutorial: https://goo.gl/ffuQXl\n-\nUsing my discount codes saves you some bucks, but I also earn a small commission. Some of the links above are affiliate.\n-\nYayy! You reached to the bottom of the description box! \nComment \" ❤❤❤ \" so I know you did! xoxoxo\n\n♥♥♥ THANK YOU SO MUCH FOR WATCHING ♥♥♥"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FCMcQPrfSQcEclxXZf7oUqz5WQc",
+      "id": "Fdg4GEHUFog",
+      "snippet": {
+        "publishedAt": "2023-10-02T17:07:01Z",
+        "channelId": "UCqQo7ewe87aYAe7ub5UqXMw",
+        "title": "Damian Lillard on Getting Traded to the Bucks - FULL INTERVIEW | 2023 NBA Media Day",
+        "description": "😤 1 HOUR OF DUNKS -https://youtu.be/G19PIqqFWV4?si=6YCNT6RoZceIrtFI\n📌 Follow HoH Instagram: https://www.instagram.com/houseofhighlights\n📌 Follow HoH TikTok: https://www.tiktok.com/@houseofhighlights\n\n#HouseofHighlights #NBA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fdg4GEHUFog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fdg4GEHUFog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fdg4GEHUFog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fdg4GEHUFog/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fdg4GEHUFog/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "House of Highlights",
+        "tags": ["house of highlights", "hoh", "shorts", "fyp"],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Damian Lillard on Getting Traded to the Bucks - FULL INTERVIEW | 2023 NBA Media Day",
+          "description": "😤 1 HOUR OF DUNKS -https://youtu.be/G19PIqqFWV4?si=6YCNT6RoZceIrtFI\n📌 Follow HoH Instagram: https://www.instagram.com/houseofhighlights\n📌 Follow HoH TikTok: https://www.tiktok.com/@houseofhighlights\n\n#HouseofHighlights #NBA"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YB2sAwDt3YT-98aDshBDroyNdV0",
+      "id": "Nteyw40i9So",
+      "snippet": {
+        "publishedAt": "2023-10-03T13:00:26Z",
+        "channelId": "UCMOqf8ab-42UUQIdVoKwjlQ",
+        "title": "Why Are Rails Shaped Like That?",
+        "description": "An overview of the wheel/rail interactions and part of the railway engineering series.\n🥑 For 16 free meals with HelloFresh PLUS free shipping, use code PRACTICAL16 at https://bit.ly/3Ws1PYm! New subscriptions only. Varies by plan across 9 boxes.\n\nIn the 19th century, railway engineering was all about how to build railroads. Modern rail engineering focuses on getting the most out of the system. It might not look like much when you see a train passing by, but a huge amount of research, testing, and engineering went into the shape of those rails and wheels.\n\nWatch this video ad-free on Nebula: https://nebula.tv/videos/practical-engineering-why-are-rails-shaped-like-that\n\nSigned copies of my book (plus other cool stuff) are available here: https://store.practical.engineering/\n\nPractical Engineering is a YouTube channel about infrastructure and the human-made world around us. It is hosted, written, and produced by Grady Hillhouse. We have new videos posted regularly, so please subscribe for updates. If you enjoyed the video, hit that ‘like’ button, give us a comment, or watch another of our videos!\n\nCONNECT WITH ME\n____________________________________\nWebsite:         http://practical.engineering\nTwitter:           https://twitter.com/HillhouseGrady\nInstagram:     https://www.instagram.com/practicalengineering\nReddit:            https://www.reddit.com/r/PracticalEngineering\nFacebook:      https://www.facebook.com/PracticalEngineerGrady​\nPatreon:         http://patreon.com/PracticalEngineering\n\nSPONSORSHIP INQUIRIES\n____________________________________\nPlease email my agent at practicalengineering@standard.tv\n\nDISCLAIMER\n____________________________________\nThis is not engineering advice. Everything here is for informational and entertainment purposes only. Contact an engineer licensed to practice in your area if you need professional advice or services. All non-licensed clips used for fair use commentary, criticism, and educational purposes.\n\nSPECIAL THANKS\n____________________________________\nThis video is sponsored by HelloFresh.\nStock video and imagery provided by Getty Images, Shutterstock, Pond5, and Videoblocks.\nMusic by Epidemic Sound: http://epidemicsound.com/creator\nTonic and Energy by Elexive is licensed under a Creative Commons Attribution License\nSource: https://www.youtube.com/watch?v=U6fBPdu8w9U\nVideo by Grady Hillhouse\nEdited by Wesley Crump\nWritten and Produced by Ralph Crewe\nProduction Assistance from Josh Lorenz\nGraphics by Nebula Studios",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nteyw40i9So/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nteyw40i9So/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nteyw40i9So/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nteyw40i9So/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nteyw40i9So/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Practical Engineering",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Why Are Rails Shaped Like That?",
+          "description": "An overview of the wheel/rail interactions and part of the railway engineering series.\n🥑 For 16 free meals with HelloFresh PLUS free shipping, use code PRACTICAL16 at https://bit.ly/3Ws1PYm! New subscriptions only. Varies by plan across 9 boxes.\n\nIn the 19th century, railway engineering was all about how to build railroads. Modern rail engineering focuses on getting the most out of the system. It might not look like much when you see a train passing by, but a huge amount of research, testing, and engineering went into the shape of those rails and wheels.\n\nWatch this video ad-free on Nebula: https://nebula.tv/videos/practical-engineering-why-are-rails-shaped-like-that\n\nSigned copies of my book (plus other cool stuff) are available here: https://store.practical.engineering/\n\nPractical Engineering is a YouTube channel about infrastructure and the human-made world around us. It is hosted, written, and produced by Grady Hillhouse. We have new videos posted regularly, so please subscribe for updates. If you enjoyed the video, hit that ‘like’ button, give us a comment, or watch another of our videos!\n\nCONNECT WITH ME\n____________________________________\nWebsite:         http://practical.engineering\nTwitter:           https://twitter.com/HillhouseGrady\nInstagram:     https://www.instagram.com/practicalengineering\nReddit:            https://www.reddit.com/r/PracticalEngineering\nFacebook:      https://www.facebook.com/PracticalEngineerGrady​\nPatreon:         http://patreon.com/PracticalEngineering\n\nSPONSORSHIP INQUIRIES\n____________________________________\nPlease email my agent at practicalengineering@standard.tv\n\nDISCLAIMER\n____________________________________\nThis is not engineering advice. Everything here is for informational and entertainment purposes only. Contact an engineer licensed to practice in your area if you need professional advice or services. All non-licensed clips used for fair use commentary, criticism, and educational purposes.\n\nSPECIAL THANKS\n____________________________________\nThis video is sponsored by HelloFresh.\nStock video and imagery provided by Getty Images, Shutterstock, Pond5, and Videoblocks.\nMusic by Epidemic Sound: http://epidemicsound.com/creator\nTonic and Energy by Elexive is licensed under a Creative Commons Attribution License\nSource: https://www.youtube.com/watch?v=U6fBPdu8w9U\nVideo by Grady Hillhouse\nEdited by Wesley Crump\nWritten and Produced by Ralph Crewe\nProduction Assistance from Josh Lorenz\nGraphics by Nebula Studios"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XuhJmYvjKhCKsTj8-7M6z3oDu0g",
+      "id": "Y19RJ91P_mM",
+      "snippet": {
+        "publishedAt": "2023-10-03T10:00:24Z",
+        "channelId": "UCVTyTA7-g9nopHeHbeuvpRA",
+        "title": "Seth Addresses the End of the Writers' Strike and the Return of Late Night",
+        "description": "Seth takes a moment to express how grateful he is for the return of Late Night and thanks the WGA's negotiating committee, the guild's leadership, his writers, his family, his crew and the audience for all of their support during the strike.\n\nLate Night with Seth Meyers.  Stream now on Peacock: https://bit.ly/3erP2gX\n\nSubscribe to Late Night: http://bit.ly/LateNightSeth\n \nWatch Late Night with Seth Meyers Weeknights 12:35ET/11:35c on NBC.\n \nGet more Late Night with Seth Meyers: http://www.nbc.com/late-night-with-seth-meyers/\n \nLATE NIGHT ON SOCIAL\nFollow Late Night on Twitter: https://twitter.com/LateNightSeth\nLike Late Night on Facebook: https://www.facebook.com/LateNightSeth\nFollow Late Night Instagram: http://instagram.com/LateNightSeth\nLate Night on Tumblr: http://latenightseth.tumblr.com/\n \nLate Night with Seth Meyers on YouTube features A-list celebrity guests, memorable comedy, and topical monologue jokes.\n \nGET MORE NBC\nLike NBC: http://Facebook.com/NBC\nFollow NBC: http://Twitter.com/NBC\nNBC Tumblr: http://NBCtv.tumblr.com/\nYouTube: http://www.youtube.com/nbc\nNBC Instagram: http://instagram.com/nbc\n \nSeth Addresses the End of the Writers' Strike and the Return of Late Night - Late Night with Seth Meyers\nhttps://youtu.be/Y19RJ91P_mM\n\nLate Night with Seth Meyers\nhttp://www.youtube.com/user/latenightseth",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y19RJ91P_mM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y19RJ91P_mM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y19RJ91P_mM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y19RJ91P_mM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y19RJ91P_mM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Late Night with Seth Meyers",
+        "tags": [
+          "late night",
+          "seth meyers",
+          "NBC",
+          "NBC TV",
+          "television",
+          "funny",
+          "talk show",
+          "comedy",
+          "humor",
+          "stand-up",
+          "parody",
+          "snl seth meyers",
+          "host",
+          "promo",
+          "seth",
+          "meyers",
+          "weekend update",
+          "news satire",
+          "satire",
+          "Late Night",
+          "WGA",
+          "negotiating committee",
+          "guild",
+          "leadership",
+          "writers",
+          "family",
+          "crew",
+          "audience",
+          "support",
+          "strike",
+          "Writers' Strike",
+          "end",
+          "grateful",
+          "committee",
+          "strike negotiations",
+          "writer's guild",
+          "WGA strike",
+          "late night returns",
+          "seth meyers returns"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Seth Addresses the End of the Writers' Strike and the Return of Late Night",
+          "description": "Seth takes a moment to express how grateful he is for the return of Late Night and thanks the WGA's negotiating committee, the guild's leadership, his writers, his family, his crew and the audience for all of their support during the strike.\n\nLate Night with Seth Meyers.  Stream now on Peacock: https://bit.ly/3erP2gX\n\nSubscribe to Late Night: http://bit.ly/LateNightSeth\n \nWatch Late Night with Seth Meyers Weeknights 12:35ET/11:35c on NBC.\n \nGet more Late Night with Seth Meyers: http://www.nbc.com/late-night-with-seth-meyers/\n \nLATE NIGHT ON SOCIAL\nFollow Late Night on Twitter: https://twitter.com/LateNightSeth\nLike Late Night on Facebook: https://www.facebook.com/LateNightSeth\nFollow Late Night Instagram: http://instagram.com/LateNightSeth\nLate Night on Tumblr: http://latenightseth.tumblr.com/\n \nLate Night with Seth Meyers on YouTube features A-list celebrity guests, memorable comedy, and topical monologue jokes.\n \nGET MORE NBC\nLike NBC: http://Facebook.com/NBC\nFollow NBC: http://Twitter.com/NBC\nNBC Tumblr: http://NBCtv.tumblr.com/\nYouTube: http://www.youtube.com/nbc\nNBC Instagram: http://instagram.com/nbc\n \nSeth Addresses the End of the Writers' Strike and the Return of Late Night - Late Night with Seth Meyers\nhttps://youtu.be/Y19RJ91P_mM\n\nLate Night with Seth Meyers\nhttp://www.youtube.com/user/latenightseth"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bsz7cWf9xC3mI50js1-h3hs0vg4",
+      "id": "GoWGGiWDsac",
+      "snippet": {
+        "publishedAt": "2023-10-03T11:00:08Z",
+        "channelId": "UCQJOYS9v30qM74f6gZDk0TA",
+        "title": "Davido - FEEL (Official Video)",
+        "description": "Davido - FEEL (Official Video)\nListen/Download: https://Davido.lnk.to/FEEL\nListen to the album ‘Timeless’: https://davido.lnk.to/timeless\n\n----------------------------------\n\nFollow Davido:\n\nTikTok: https://www.tiktok.com/@davido\nInstagram: https://instagram.com/davido   \nTwitter: https://twitter.com/davido\nFacebook: https://www.facebook.com/davidoofficial2\nWebsite: https://iamdavido.com\n\n----------------------------------\nLyrics:\n\nKo ba\nI’ll be on the phone\n(I’ll be on the phone)\nCalling you tonight\n(Calling your tonight)\nI want make you feel me\n(I want make you feel me)\nMake we no dey fight\n(make we no dey fight)\nI no wan sleep alone\n(no wan sleep alone)\nWanna hold you tight\n(wanna hold you tight)\nWater full my eyes\n(water full my eyes)\nBut i’ll be alright\n(but i’ll be alright)\nForever\nO ma la tan\n(Anyhow)\nO ma gba\nO ma ke tan\nIbebe idi e\nO ma shitan o\nSay dem go feel it\n(Ye)\nDem do run it down\nDem go hold it down\nDem go\nSay dem go feel it\nDem do run it down\nDem go hold it down\nDem go\nI be talking to myself\n(I be talking to myself)\nAnd I no even notice\n(I no even notice)\nShe gat me feeling like a zombie\n(feeling like a zombie)\n\nAnd she dey shoot like chuck norris\n(she dey shoot like chuck norris)\nThe way she put her body down\n(she put her body down)\nYou got me falling truly\n(gat me falling truly)\nI just touched down\n(I just touched down)\nWanna see you now\n(Wanna see you now)\nCause have been on the phone\n(have been on the phone)\nCalling you tonight\n(Calling you tonight)\nI want make you feel me\n(I wanna make you feel me)\nMake we no dey fight\n(Make we no dey fight)\n\nI no wan sleep alone\n(no wan sleep alone)\nWanna hold you tight\n(wanna hold you tight)\nWater full my eyes\n(water full my eyes)\nBut i’ll be alright\n(but i’ll be alright)\nForever\nO ma la tan\n(Aya!)\nO ma gba\nO ma ke tan\nIbebe idi e\nO ma shitan o\nSay dem go feel it\nDem do run it down\nDem go hold it down\nDem go\nSay dem go feel it\nDem do run it down\nDem go hold it down\nDem go\n\n----------------------------------\n\n#Davido #FEEL #Timeless",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GoWGGiWDsac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GoWGGiWDsac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GoWGGiWDsac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GoWGGiWDsac/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GoWGGiWDsac/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DavidoVEVO",
+        "tags": [
+          "Davido UNAVAILABLE",
+          "Davido FEEL",
+          "Davido UNAVAILABLE (Official Video) ft. Musa Keys",
+          "Davido Chris Brown",
+          "Davido dance trend",
+          "Davido new album",
+          "davido new song",
+          "unavailable dance",
+          "davido timeless",
+          "timeless 2023",
+          "timeless live",
+          "davido live",
+          "davido 2023",
+          "Davido KANTE feat Fave",
+          "Davido No Competition feat Asake",
+          "Davido Over Dem",
+          "Davido If",
+          "Davido Summer",
+          "Davido Fall",
+          "Davido Good Time",
+          "Davido Better Time",
+          "Davido Jowo",
+          "Davido Champion Sound"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Davido - FEEL (Official Video)",
+          "description": "Davido - FEEL (Official Video)\nListen/Download: https://Davido.lnk.to/FEEL\nListen to the album ‘Timeless’: https://davido.lnk.to/timeless\n\n----------------------------------\n\nFollow Davido:\n\nTikTok: https://www.tiktok.com/@davido\nInstagram: https://instagram.com/davido   \nTwitter: https://twitter.com/davido\nFacebook: https://www.facebook.com/davidoofficial2\nWebsite: https://iamdavido.com\n\n----------------------------------\nLyrics:\n\nKo ba\nI’ll be on the phone\n(I’ll be on the phone)\nCalling you tonight\n(Calling your tonight)\nI want make you feel me\n(I want make you feel me)\nMake we no dey fight\n(make we no dey fight)\nI no wan sleep alone\n(no wan sleep alone)\nWanna hold you tight\n(wanna hold you tight)\nWater full my eyes\n(water full my eyes)\nBut i’ll be alright\n(but i’ll be alright)\nForever\nO ma la tan\n(Anyhow)\nO ma gba\nO ma ke tan\nIbebe idi e\nO ma shitan o\nSay dem go feel it\n(Ye)\nDem do run it down\nDem go hold it down\nDem go\nSay dem go feel it\nDem do run it down\nDem go hold it down\nDem go\nI be talking to myself\n(I be talking to myself)\nAnd I no even notice\n(I no even notice)\nShe gat me feeling like a zombie\n(feeling like a zombie)\n\nAnd she dey shoot like chuck norris\n(she dey shoot like chuck norris)\nThe way she put her body down\n(she put her body down)\nYou got me falling truly\n(gat me falling truly)\nI just touched down\n(I just touched down)\nWanna see you now\n(Wanna see you now)\nCause have been on the phone\n(have been on the phone)\nCalling you tonight\n(Calling you tonight)\nI want make you feel me\n(I wanna make you feel me)\nMake we no dey fight\n(Make we no dey fight)\n\nI no wan sleep alone\n(no wan sleep alone)\nWanna hold you tight\n(wanna hold you tight)\nWater full my eyes\n(water full my eyes)\nBut i’ll be alright\n(but i’ll be alright)\nForever\nO ma la tan\n(Aya!)\nO ma gba\nO ma ke tan\nIbebe idi e\nO ma shitan o\nSay dem go feel it\nDem do run it down\nDem go hold it down\nDem go\nSay dem go feel it\nDem do run it down\nDem go hold it down\nDem go\n\n----------------------------------\n\n#Davido #FEEL #Timeless"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lhyd7dtb6oDP80dgV0AVn0rBS0M",
+      "id": "O6sXlEwSy1I",
+      "snippet": {
+        "publishedAt": "2023-10-02T15:00:17Z",
+        "channelId": "UC1sELGmy5jp5fQUugmuYlXQ",
+        "title": "Minecraft Live 2023: Mob vote ahoy!",
+        "description": "Tiny Agnes, Tiny Vu and Tiny Jens are back and they’re on a very important journey to Minecraft Live! Will Tiny Jens’ shortcut work? Will the Tinies make it to Minecraft Live in time? And will they meet some new mobs along the way? Keep your eyes on our YouTube channel, and find out… \n \nMinecraft Live returns on October 15 at 1pm EDT – with news, sneak peeks, the mob vote, and more! Tune in right here on YouTube, or via Minecraft.net!\n\nLearn more at https://www.minecraft.net",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O6sXlEwSy1I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O6sXlEwSy1I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O6sXlEwSy1I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O6sXlEwSy1I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O6sXlEwSy1I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Minecraft",
+        "tags": ["Minecraft Live", "Mob vote", "New mobs", "Minecraft"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Minecraft Live 2023: Mob vote ahoy!",
+          "description": "Tiny Agnes, Tiny Vu and Tiny Jens are back and they’re on a very important journey to Minecraft Live! Will Tiny Jens’ shortcut work? Will the Tinies make it to Minecraft Live in time? And will they meet some new mobs along the way? Keep your eyes on our YouTube channel, and find out… \n \nMinecraft Live returns on October 15 at 1pm EDT – with news, sneak peeks, the mob vote, and more! Tune in right here on YouTube, or via Minecraft.net!\n\nLearn more at https://www.minecraft.net"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nTf-pzBZqUGyWvccXUvE_sh5JDY",
+      "id": "JGQK2daimAc",
+      "snippet": {
+        "publishedAt": "2023-10-03T07:54:09Z",
+        "channelId": "UCooVYzDxdwTtGYAkcPmOgOw",
+        "title": "Brawl Stars - Get FREE Legendary Starr Drops and 2X Starr Drops!",
+        "description": "Download NOW!! ►► https://supr.cl/2K62CZG\nSubscribe!! ►► https://supr.cl/subscribe\n\n#ShootingStarrDrops #brawlstars \n\nAn epic battle royale made for mobile! Play with friends or solo across various game modes in under three minutes.\n\nUnlock and upgrade dozens of Brawlers with powerful Super abilities, Star Powers, Gadgets and Gears! \nCollect unique skins to stand out and show off. Battle in a variety of mysterious locations within the Brawliverse!\n\nBATTLE IN MULTIPLE GAME MODES\n- Gem Grab (3v3): Team up and out-strategize the opposing team. Collect and hold 10 gems to win, but get fragged and lose your gems.\n- Showdown (Solo/Duo): A battle royale style fight for survival. Collect power ups for your Brawler. Grab a friend or play solo - be the last Brawler standing in the rowdiest battle royale yet. Winner take all!\n- Brawl Ball (3v3): It’s a whole new Brawl game! Show off your soccer/football skills and score two goals before the other team. There are no red cards here.\n- Bounty (3v3): Take out opponents to earn stars, but don’t let them pick you off. The squad with the most stars wins the match!\n- Heist (3v3): Protect your team’s safe and try to crack open your opponents’. Navigate the map to sneak, blast and blow your way clear to the enemies treasure.\n- Special Events: Limited time special PvE and PvP game modes.\n\nUNLOCK AND UPGRADE BRAWLERS\nCollect and upgrade a variety of Brawlers with powerful Super abilities, Star Powers, Gadgets! and Gears! Level them up and collect unique skins!\n\nBRAWL PASS\nComplete quests, open Brawl Boxes, earn Gems, pins and an exclusive Brawl Pass skin! Fresh content every season!\n\nBECOME THE STAR PLAYER\nClimb the local and regional leaderboards to prove you’re the greatest Brawler of them all!\n\nCONSTANTLY EVOLVING\nLook out for new Brawlers, skins, maps, special events and games modes in the future!\n\nPLEASE NOTE! Brawl Stars is free to download and play, however, some game items can also be purchased for real money. If you don’t want to use this feature, please disable in-app purchases in your device’s settings. Also, under our Terms of Service and Privacy Policy, you must be at least 9 years of age to play or download Brawl Stars.\n\nFeatures:\n- Team up for real-time 3v3 battles against players from across the world\n- A fast-paced multiplayer battle royale mode made for mobile\n- Unlock and collect new, powerful Brawlers - each with a signature attack and Super ability\n- New events and game modes daily\n- Battle solo or with friends\n- Climb to the top of the leaderboards in global and local rankings\n- Join or start your own Club with fellow players to share tips and battle together\n- Customize Brawlers with unlockable skins\n- Player-designed maps offer challenging new terrain to master\n\nFrom the makers of Clash of Clans, Clash Royale and Boom Beach!\n\nSupport:\nContact us in-game via Settings, Help and Support — or visit http://supercell.helpshift.com/a/brawl-stars/\n\nPrivacy Policy:\nhttp://supercell.com/en/privacy-policy/\n\nTerms of Service:\nhttp://supercell.com/en/terms-of-service/\n\nParent’s Guide:\nhttp://supercell.com/en/parents/\n\n#BrawlStars #ShootingStarrDrops",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JGQK2daimAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JGQK2daimAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JGQK2daimAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JGQK2daimAc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JGQK2daimAc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Brawl Stars",
+        "tags": [
+          "brawl stars",
+          "mobile game",
+          "mobile strategy game",
+          "mobile rpg",
+          "mobile battle royale",
+          "battle royale",
+          "supercell game",
+          "starr drops",
+          "boxes",
+          "starr",
+          "dani",
+          "marzio",
+          "takedown",
+          "community",
+          "brawl talk"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Brawl Stars - Get FREE Legendary Starr Drops and 2X Starr Drops!",
+          "description": "Download NOW!! ►► https://supr.cl/2K62CZG\nSubscribe!! ►► https://supr.cl/subscribe\n\n#ShootingStarrDrops #brawlstars \n\nAn epic battle royale made for mobile! Play with friends or solo across various game modes in under three minutes.\n\nUnlock and upgrade dozens of Brawlers with powerful Super abilities, Star Powers, Gadgets and Gears! \nCollect unique skins to stand out and show off. Battle in a variety of mysterious locations within the Brawliverse!\n\nBATTLE IN MULTIPLE GAME MODES\n- Gem Grab (3v3): Team up and out-strategize the opposing team. Collect and hold 10 gems to win, but get fragged and lose your gems.\n- Showdown (Solo/Duo): A battle royale style fight for survival. Collect power ups for your Brawler. Grab a friend or play solo - be the last Brawler standing in the rowdiest battle royale yet. Winner take all!\n- Brawl Ball (3v3): It’s a whole new Brawl game! Show off your soccer/football skills and score two goals before the other team. There are no red cards here.\n- Bounty (3v3): Take out opponents to earn stars, but don’t let them pick you off. The squad with the most stars wins the match!\n- Heist (3v3): Protect your team’s safe and try to crack open your opponents’. Navigate the map to sneak, blast and blow your way clear to the enemies treasure.\n- Special Events: Limited time special PvE and PvP game modes.\n\nUNLOCK AND UPGRADE BRAWLERS\nCollect and upgrade a variety of Brawlers with powerful Super abilities, Star Powers, Gadgets! and Gears! Level them up and collect unique skins!\n\nBRAWL PASS\nComplete quests, open Brawl Boxes, earn Gems, pins and an exclusive Brawl Pass skin! Fresh content every season!\n\nBECOME THE STAR PLAYER\nClimb the local and regional leaderboards to prove you’re the greatest Brawler of them all!\n\nCONSTANTLY EVOLVING\nLook out for new Brawlers, skins, maps, special events and games modes in the future!\n\nPLEASE NOTE! Brawl Stars is free to download and play, however, some game items can also be purchased for real money. If you don’t want to use this feature, please disable in-app purchases in your device’s settings. Also, under our Terms of Service and Privacy Policy, you must be at least 9 years of age to play or download Brawl Stars.\n\nFeatures:\n- Team up for real-time 3v3 battles against players from across the world\n- A fast-paced multiplayer battle royale mode made for mobile\n- Unlock and collect new, powerful Brawlers - each with a signature attack and Super ability\n- New events and game modes daily\n- Battle solo or with friends\n- Climb to the top of the leaderboards in global and local rankings\n- Join or start your own Club with fellow players to share tips and battle together\n- Customize Brawlers with unlockable skins\n- Player-designed maps offer challenging new terrain to master\n\nFrom the makers of Clash of Clans, Clash Royale and Boom Beach!\n\nSupport:\nContact us in-game via Settings, Help and Support — or visit http://supercell.helpshift.com/a/brawl-stars/\n\nPrivacy Policy:\nhttp://supercell.com/en/privacy-policy/\n\nTerms of Service:\nhttp://supercell.com/en/terms-of-service/\n\nParent’s Guide:\nhttp://supercell.com/en/parents/\n\n#BrawlStars #ShootingStarrDrops"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BbQbMWG0RcJrJR4Nk0RgPv3Vy4s",
+      "id": "ORSooUbfhPQ",
+      "snippet": {
+        "publishedAt": "2023-10-03T13:02:29Z",
+        "channelId": "UCHdpnvKJDijKNe2caIasnww",
+        "title": "I was scammed by a used car salesman.",
+        "description": "At least it looks nice. \nJames Channel! https://www.youtube.com/@Games_for_James",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ORSooUbfhPQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ORSooUbfhPQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ORSooUbfhPQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ORSooUbfhPQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ORSooUbfhPQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Garbage Time",
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I was scammed by a used car salesman.",
+          "description": "At least it looks nice. \nJames Channel! https://www.youtube.com/@Games_for_James"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fDIXFc0GKwWXhOKcJC27z3KMvq8",
+      "id": "LMKySYs-hCg",
+      "snippet": {
+        "publishedAt": "2023-10-02T16:00:09Z",
+        "channelId": "UCQMELFlXQL38KPm8kM-4Adg",
+        "title": "Jay Leno Hauls Tesla Semi with Tesla Semi",
+        "description": "In a Jay Leno's Garage EXCLUSIVE, Tesla Chief Designer Franz von Holzhausen and Tesla's Senior Manager of Semi-Truck Engineering Dan Priestley bring Tesla's new Semi-Truck by the garage.\n\n» Subscribe: http://bit.ly/JLGSubscribe\n» Visit the Official Site: http://bit.ly/JLGOfficialSite\n\nTHE BEST OF JAY LENO'S GARAGE\n» Exclusive First Looks: http://bit.ly/JLGExclusives\n» Ultra Rare Supercars: http://bit.ly/JLGSupercars\n» Jay's Book Club: http://bit.ly/JLGBookClub\n\nJAY LENO'S GARAGE ON SOCIAL\nFacebook: http://facebook.com/JayLenosGarage\nTwitter: http://twitter.com/LenosGarage\nInstagram: http://instagram.com/jaylenosgarage/\nTikTok: https://www.tiktok.com/@jaylenosgarageofficial\n\nABOUT JAY LENO'S GARAGE\nA new video every Monday! Visit Jay Leno's Garage, the Emmy-winning series where Jay Leno gives car reviews, motorcycle reviews, compares cars, and shares his passion and expertise on anything that rolls, explodes, and makes noise. Classic cars, restomods, super cars like the McLaren P1, sports cars like Porsche 918 Spyder and Camaro Z28, cafe racers, vintage cars, and much, much more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LMKySYs-hCg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LMKySYs-hCg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LMKySYs-hCg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LMKySYs-hCg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LMKySYs-hCg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jay Leno's Garage",
+        "tags": [
+          "Jay Leno",
+          "Jay Leno's Garage",
+          "car reviews",
+          "compares cars",
+          "classic cars",
+          "vintage cars",
+          "sports cars",
+          "super cars",
+          "cars",
+          "car gear",
+          "jay leno garage",
+          "jay lenos garage",
+          "Tesla",
+          "Tesla Semi",
+          "Tesla Semi Truck",
+          "Franz von Holzhausen",
+          "David Priestley"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Jay Leno Hauls Tesla Semi with Tesla Semi",
+          "description": "In a Jay Leno's Garage EXCLUSIVE, Tesla Chief Designer Franz von Holzhausen and Tesla's Senior Manager of Semi-Truck Engineering Dan Priestley bring Tesla's new Semi-Truck by the garage.\n\n» Subscribe: http://bit.ly/JLGSubscribe\n» Visit the Official Site: http://bit.ly/JLGOfficialSite\n\nTHE BEST OF JAY LENO'S GARAGE\n» Exclusive First Looks: http://bit.ly/JLGExclusives\n» Ultra Rare Supercars: http://bit.ly/JLGSupercars\n» Jay's Book Club: http://bit.ly/JLGBookClub\n\nJAY LENO'S GARAGE ON SOCIAL\nFacebook: http://facebook.com/JayLenosGarage\nTwitter: http://twitter.com/LenosGarage\nInstagram: http://instagram.com/jaylenosgarage/\nTikTok: https://www.tiktok.com/@jaylenosgarageofficial\n\nABOUT JAY LENO'S GARAGE\nA new video every Monday! Visit Jay Leno's Garage, the Emmy-winning series where Jay Leno gives car reviews, motorcycle reviews, compares cars, and shares his passion and expertise on anything that rolls, explodes, and makes noise. Classic cars, restomods, super cars like the McLaren P1, sports cars like Porsche 918 Spyder and Camaro Z28, cafe racers, vintage cars, and much, much more."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "a7NlszO1ptD1TKHi-jrkz1Ostu4",
+      "id": "AqjPzq3uYXQ",
+      "snippet": {
+        "publishedAt": "2023-10-02T05:42:39Z",
+        "channelId": "UCuHzBCaKmtaLcRAOoazhCPA",
+        "title": "RENAISSANCE: A FILM BY BEYONCÉ",
+        "description": "RENAISSANCE: A FILM BY BEYONCÉ accentuates the journey of RENAISSANCE WORLD TOUR, from its inception, to the opening in Stockholm, Sweden, to the finale in Kansas City, Missouri. It is about Beyoncé’s intention, hard work, involvement in every aspect of the production, her creative mind and purpose to create her legacy, and master her craft. Received with extraordinary acclaim, Beyoncé’s RENAISSANCE WORLD TOUR created a sanctuary for freedom, and shared joy, for more than 2.7 million fans.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AqjPzq3uYXQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AqjPzq3uYXQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AqjPzq3uYXQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AqjPzq3uYXQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AqjPzq3uYXQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Beyoncé",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "RENAISSANCE: A FILM BY BEYONCÉ",
+          "description": "RENAISSANCE: A FILM BY BEYONCÉ accentuates the journey of RENAISSANCE WORLD TOUR, from its inception, to the opening in Stockholm, Sweden, to the finale in Kansas City, Missouri. It is about Beyoncé’s intention, hard work, involvement in every aspect of the production, her creative mind and purpose to create her legacy, and master her craft. Received with extraordinary acclaim, Beyoncé’s RENAISSANCE WORLD TOUR created a sanctuary for freedom, and shared joy, for more than 2.7 million fans."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HVC6LVK4FtYXhpAUwX2Sr2m-6OM",
+      "id": "voKKXysVIlQ",
+      "snippet": {
+        "publishedAt": "2023-10-02T11:05:35Z",
+        "channelId": "UCKoafhJ9dkAWaEvlXCiBBwA",
+        "title": "Olivia Rodrigo - Stick Season (Noah Kahan cover) in the Live Lounge",
+        "description": "Olivia Rodrigo covers 'Stick Season' by Noah Kahan exclusively for the BBC Radio 1 Live Lounge from Hollywood's Forever Cemetery\n\nhttp://vevo.ly/Da5JWj",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/voKKXysVIlQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/voKKXysVIlQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/voKKXysVIlQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/voKKXysVIlQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/voKKXysVIlQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BBCRadio1VEVO",
+        "tags": [
+          "Olivia Rodrigo",
+          "Stick Season",
+          "Noah Kahan",
+          "BBC",
+          "Radio",
+          "Hollywood",
+          "Forever Cemetery",
+          "Live Lounge"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Olivia Rodrigo - Stick Season (Noah Kahan cover) in the Live Lounge",
+          "description": "Olivia Rodrigo covers 'Stick Season' by Noah Kahan exclusively for the BBC Radio 1 Live Lounge from Hollywood's Forever Cemetery\n\nhttp://vevo.ly/Da5JWj"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rnlnvZ8YGRYbA8XVWDwxskNmIGM",
+      "id": "5TdLgC1KyTI",
+      "snippet": {
+        "publishedAt": "2023-10-03T14:50:41Z",
+        "channelId": "UCsTcErHg8oDvUnTzoqsYeNw",
+        "title": "iPhone 15 Pro Max Overheating Issues...",
+        "description": "How hot does the iPhone 15 Pro Max get?\nAnker iPhone 15 Chargers and More\nAmazon: https://ankerfast.club/gyPWJK\nANKER: https://shop.anker.com/MCQUey\n\niPhone 15 Cases - https://latercase.com/collections/iphone-thin-cases \n\nThanks to Anker for partnering on this iPhone 15 content. Go check them out.\n\nFOLLOW ME IN THESE PLACES FOR UPDATES\r\nTwitter - http://twitter.com/unboxtherapy\r\nFacebook - http://facebook.com/lewis.hilsenteger\r\nInstagram - http://instagram.com/unboxtherapy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5TdLgC1KyTI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5TdLgC1KyTI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5TdLgC1KyTI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5TdLgC1KyTI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5TdLgC1KyTI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Unbox Therapy",
+        "tags": [
+          "unbox therapy",
+          "unboxtherapy",
+          "tech",
+          "technology",
+          "gadgets",
+          "gadget",
+          "unboxing",
+          "review",
+          "unbox",
+          "therapy",
+          "new",
+          "youtube"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "iPhone 15 Pro Max Overheating Issues...",
+          "description": "How hot does the iPhone 15 Pro Max get?\nAnker iPhone 15 Chargers and More\nAmazon: https://ankerfast.club/gyPWJK\nANKER: https://shop.anker.com/MCQUey\n\niPhone 15 Cases - https://latercase.com/collections/iphone-thin-cases \n\nThanks to Anker for partnering on this iPhone 15 content. Go check them out.\n\nFOLLOW ME IN THESE PLACES FOR UPDATES\r\nTwitter - http://twitter.com/unboxtherapy\r\nFacebook - http://facebook.com/lewis.hilsenteger\r\nInstagram - http://instagram.com/unboxtherapy"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "K51uVMpxlTox7eU6XLzfsTzGIMs",
+      "id": "LIt4jzQz83Y",
+      "snippet": {
+        "publishedAt": "2023-10-03T14:00:07Z",
+        "channelId": "UCaSgsFdGbwjfdawl3rOXiwQ",
+        "title": "Dead by Daylight | Haunted by Daylight Teaser Trailer",
+        "description": "Fear is better in The Fog. Haunted by Daylight returns on October 18th. \n\nDead by Daylight is a multiplayer action/horror game where one player takes on the role of a brutal Killer and the other four play as Survivors. As a Killer your goal is to sacrifice as many Survivors as possible. As Survivors your goal is to work together to evade, escape, and most importantly – stay alive.      \n\nPLAY DEAD BY DAYLIGHT: https://buythegame.deadbydaylight.com/   \n\nJoin the official forum:  https://forums.bhvr.com/dead-by-daylight/\n\n Like and follow us on our official Social Media Channels:     \n- Facebook:  https://facebook.com/DeadByDaylight\n- Twitter:  https://twitter.com/DeadbyDaylight\n- Instagram:  https://www.instagram.com/deadbydaylight/\n- TikTok: https://www.tiktok.com/@deadbydaylight \n\n#DbD",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LIt4jzQz83Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LIt4jzQz83Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LIt4jzQz83Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LIt4jzQz83Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LIt4jzQz83Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dead by Daylight",
+        "tags": [
+          "dead by daylight",
+          "dbd",
+          "behaviour interactive",
+          "bhvr",
+          "slasher game",
+          "survival horror"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Dead by Daylight | Haunted by Daylight Teaser Trailer",
+          "description": "Fear is better in The Fog. Haunted by Daylight returns on October 18th. \n\nDead by Daylight is a multiplayer action/horror game where one player takes on the role of a brutal Killer and the other four play as Survivors. As a Killer your goal is to sacrifice as many Survivors as possible. As Survivors your goal is to work together to evade, escape, and most importantly – stay alive.      \n\nPLAY DEAD BY DAYLIGHT: https://buythegame.deadbydaylight.com/   \n\nJoin the official forum:  https://forums.bhvr.com/dead-by-daylight/\n\n Like and follow us on our official Social Media Channels:     \n- Facebook:  https://facebook.com/DeadByDaylight\n- Twitter:  https://twitter.com/DeadbyDaylight\n- Instagram:  https://www.instagram.com/deadbydaylight/\n- TikTok: https://www.tiktok.com/@deadbydaylight \n\n#DbD"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}
