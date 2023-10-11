@@ -5,8 +5,8 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
-import VideoList from "./pages/VideoList";
 import VideoDetail from "./pages/VideoDetail";
+import SearchVideos from "./pages/SearchVideos";
 
 const root = ReactDOM.createRoot(document.getElementById("root") as HTMLElement);
 root.render(
@@ -15,7 +15,7 @@ root.render(
       <Route path="/" element={<App />}>
         <Route index element={<Home />} />
         <Route path="/video">
-          <Route path=":searchText" element={<VideoList />} />
+          <Route path=":searchText" element={<SearchVideos />} />
           <Route path="watch/:id" element={<VideoDetail />} />
         </Route>
       </Route>
